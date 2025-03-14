@@ -1,9 +1,15 @@
-The source image you are seeing is a glossary of a textbook, and contains an ordered list of words and phrases in French. 
+<system_prompt>
+<assistant_requirements>
+The source images you are seeing are from a glossary of a textbook, and contain an ordered list of words and phrases in French.
 
 Please list them out as accurately as possible, using the same formatting as described in the remainder of this prompt.
 
 Ensure you utilize all headings as seen fit according to the following schema.
 
+If the images entered are not of the format as expected above, try your best to adhere to the example formatting.
+</assistant_requirements>
+
+<format>
 # Dossier 0
 
 ## Leçon 1
@@ -66,3 +72,5 @@ Ensure you utilize all headings as seen fit according to the following schema.
 - répondre
 - souligner (un mot)
 - travailler (en groupe, par deux)
+</format>
+</system_prompt>

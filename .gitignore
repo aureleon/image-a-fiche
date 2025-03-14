@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info/
+dist/
+build/
+venv/
+*.log
+*.sqlite
+
+# Artifacts
+*.log
+*.tmp
+*.bak
+
