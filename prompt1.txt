@@ -1,0 +1,51 @@
+Please utilize all of the information in this file to create a JSON schema for a flash card deck.
+
+The FRONT variable will be the vocabulary word or phrase, and the mean will have both the meaning in English, as well as a usage in French. Please ensure that these are all understandable by a learner at the A1-A2 level.
+
+JSON Schema:
+
+{
+  "Dossier ${N}": {
+    "Leçon ${K}":  {
+      "${HEADER}": {
+        "${FRONT}": "${BACK}"
+      }
+    }
+  }
+}
+
+A few examples
+
+"Dossier 1": {
+  "Leçon 1": {
+    "Les personnes": {
+      "un garçon": "<b>Meaning</b>: a boy<br><b>Phrase: </b><i>Il est un garçon.</i>",
+      "un jeune homme": "<b>Meaning</b>: a young man<br><b>Phrase: </b><i>C'est un jeune homme.</i>",
+      "un monsieur": "<b>Meaning</b>: a gentleman/sir<br><b>Phrase: </b><i>Bonjour, monsieur.</i>",
+      "une fille": "<b>Meaning</b>: a girl<br><b>Phrase: </b><i>Elle est une fille.</i>",
+      "une jeune fille": "<b>Meaning</b>: a young girl<br><b>Phrase: </b><i>Voici une jeune fille.</i>",
+      "une jeune femme": "<b>Meaning</b>: a young woman<br><b>Phrase: </b><i>Elle est une jeune femme.</i>",
+      "une dame": "<b>Meaning</b>: a lady<br><b>Phrase: </b><i>C'est une dame.</i>",
+      "des jeunes gens": "<b>Meaning</b>: young people<br><b>Phrase: </b><i>Ce sont des jeunes gens.</i>",
+      "madame": "<b>Meaning</b>: madam/ma'am<br><b>Phrase: </b><i>Bonjour, madame.</i>",
+      "mademoiselle": "<b>Meaning</b>: miss/young lady<br><b>Phrase: </b><i>Comment allez-vous, mademoiselle?</i>",
+      "monsieur": "<b>Meaning</b>: mister/sir<br><b>Phrase: </b><i>Au revoir, monsieur.</i>",
+      "une relation formelle": "<b>Meaning</b>: a formal relationship<br><b>Phrase: </b><i>C'est une relation formelle.</i>",
+      "une relation informelle": "<b>Meaning</b>: an informal relationship<br><b>Phrase: </b><i>Ils ont une relation informelle.</i>"
+    },
+    "Les informations personnelles": {
+      "l'âge": "<b>Meaning</b>: age<br><b>Phrase: </b><i>Quel est votre âge?</i>",
+      "un trombinoscope": "<b>Meaning</b>: a photo directory<br><b>Phrase: </b><i>Voici un trombinoscope.</i>",
+      "être bilingue": "<b>Meaning</b>: to be bilingual<br><b>Phrase: </b><i>Je suis bilingue.</i>"
+    }
+  }
+}
+
+"Dossier 4": {
+  "Leçon 1": {
+    "Le temps et les horaires": {
+      "un horaire d'ouverture": "<b>Meaning</b>: opening hours<br><b>Phrase: </b><i>Le magasin a un horaire d'ouverture à 9h00.</i>",
+      "un horaire de fermeture": "<b>Meaning</b>: closing hours<br><b>Phrase: </b><i>L'horaire de fermeture du restaurant est à 22h00.</i>",
+    },
+  },
+}
