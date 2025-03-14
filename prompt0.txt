@@ -1,6 +1,12 @@
-The source image you are seeing is a glossary of a textbook, and contains an ordered list of words and phrases in French. Please list them out as accurately as possible, using the same formatting as described in the remainder of this prompt. 
+The source image you are seeing is a glossary of a textbook, and contains an ordered list of words and phrases in French. 
+
+Please list them out as accurately as possible, using the same formatting as described in the remainder of this prompt.
+
+Ensure you utilize all headings as seen fit according to the following schema.
 
 # Dossier 0
+
+## Leçon 1
 
 ### Les personnes
 
@@ -60,46 +66,3 @@ The source image you are seeing is a glossary of a textbook, and contains an ord
 - répondre
 - souligner (un mot)
 - travailler (en groupe, par deux)
-
-### Les pays et nationalités
-
-- l'Allemagne (f.): allemand(e)
-- l'Autriche (f.): autrichien (ne)
-- le Cambodge: cambodgien(ne)
-- le Canada: canadien(ne)
-- la Chine: chinois(e)
-- la Corée: coréen(ne)
-- le Danemark: danois(e)
-- l'Espagne (f.): espagnol(e)
-- les États-Unis: américain(e)
-- la France: français(e)
-- la Grèce: grec(que)
-- l'Iran (m.): iranien(ne)
-- l'Italie (f.): italien(ne)
-- le Japon: japonais(e)
-- le Maroc: marocain(e)
-- le Mexique: mexicain(e)
-- les Pays-Bas (m.): néerlandais(e)
-- les Philippines (f.): philippin(e)
-- la Pologne: polonais(e)
-- le Portugal: portugais (e)
-- la Russie: russe
-- la Suède: suédois(e)
-- la Suisse: suisse
-- la Thaïlande: thaïlandais(e)
-- la Tunisie: tunisien(ne)
-- la Turquie: turc, turque
-- le Vietnam: vietnamien(ne)
-- le Zimbabwe: zimbabwéen(ne)1
-
-### Les continents
-
-- l'Afrique (f.)
-- l'Amérique (f.)
-- l'Asie (f.)
-- l'Europe (f.)
-- l'Océanie (f.)
-
-### Caractériser
-
-- identique ≠ différent
