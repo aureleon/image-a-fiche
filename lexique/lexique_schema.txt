@@ -1,4 +1,3 @@
-<system_prompt>
 <assistant_requirements>
 Please utilize all of the information in any text passed to create a JSON schema for a flash card deck.
 
@@ -60,9 +59,9 @@ The FRONT variable will be the vocabulary word or phrase, and the mean will have
     }
   }
 }
-<exampl_schema0>
+</exampl_schema0>
 
-<exampl_schema1>
+<example_schema1>
 "Dossier 4": {
   "Leçon 1": {
     "Le temps et les horaires": {
@@ -71,5 +70,4 @@ The FRONT variable will be the vocabulary word or phrase, and the mean will have
     },
   },
 }
-<exampl_schema1>
-</system_prompt>
+</example_schema1>

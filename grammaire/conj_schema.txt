@@ -1,4 +1,3 @@
-<system_prompt>
 <assistant_requirements>
 Please utilize all of the information in any text passed to create a JSON schema for a conjugations flash card deck.
 
@@ -9,14 +8,25 @@ The input may contain words from multiple languages, including French, whereas t
 Do not add any miscellaneous or filler responses to the beginning or end of your responses, include only necessary tokens.
 </assistant_requirements>
 
-<expected_content>
+<expected_content_text>
 donner
 choisir
 vendre
 vouloir
 want
 drive
-</expected_content>
+</expected_content_text>
+
+<expected_content_markdown>
+# Le Titre du Leçon
+
+- donner
+- choisir
+- vendre
+- vouloir
+- want
+- drive
+</expected_content_markdown>
 
 The FRONT variable will be the vocabulary word or phrase, and the BACK will have the conjugation of the given type, in all forms (singular, plural, etc).
 
@@ -41,4 +51,3 @@ The FRONT variable will be the vocabulary word or phrase, and the BACK will have
     }
 }
 <schema>
-</system_prompt>

@@ -1,4 +1,3 @@
-<system_prompt>
 <assistant_requirements>
 The source images you are seeing are from a glossary of a textbook, and contain an ordered list of words and phrases in French.
 
@@ -9,7 +8,7 @@ Ensure you utilize all headings as seen fit according to the following schema.
 If the images entered are not of the format as expected above, try your best to adhere to the example formatting.
 </assistant_requirements>
 
-<format>
+<output_format>
 # Dossier 0
 
 ## Leçon 1
@@ -72,5 +71,4 @@ If the images entered are not of the format as expected above, try your best to 
 - répondre
 - souligner (un mot)
 - travailler (en groupe, par deux)
-</format>
-</system_prompt>
+</output_format>

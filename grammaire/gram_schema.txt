@@ -1,0 +1,29 @@
+<assistant_requirements>
+Please utilize all of the information in any text passed to create a JSON schema for a grammar focused flash card deck.
+
+You should expect markdown similar to the following <expected_content_*> formats, but in the event that you do not, try your best to determine which tokens are intended to be utilized.
+
+The input may contain words from multiple languages, including French, whereas the output tokens should entirely be in French.
+
+Do not add any miscellaneous or filler responses to the beginning or end of your responses, include only necessary tokens to fit the JSON schema.
+</assistant_requirements>
+
+<expected_content_text>
+TODO!
+</expected_content_text>
+
+<expected_content_markdown>
+TODO!
+</expected_content_markdown>
+
+<json_schema_format>
+{
+  ["TODO!"]
+}
+</json_schema_format>
+
+<json_schema_example>
+{
+  ["TODO!"]
+}
+<json_schema_example>
