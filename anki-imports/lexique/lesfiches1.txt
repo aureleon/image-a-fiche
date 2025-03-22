@@ -1,0 +1,55 @@
+i>C'est un jeune homme.</i>|dossier-1 les-personnes dossier-1-leçon-1
+un monsieur|<b>Meaning</b>: a gentleman/sir<br><b>Phrase: </b><i>Bonjour, monsieur.</i>|dossier-1 les-personnes dossier-1-leçon-1
+une dame|<b>Meaning</b>: a lady<br><b>Phrase: </b><i>C'est une dame.</i>|dossier-1 les-personnes dossier-1-leçon-1
+une fille|<b>Meaning</b>: a girl<br><b>Phrase: </b><i>Elle est une fille.</i>|dossier-1 les-personnes dossier-1-leçon-1
+une jeune femme|<b>Meaning</b>: a young woman<br><b>Phrase: </b><i>Elle est une jeune femme.</i>|dossier-1 les-personnes dossier-1-leçon-1
+une jeune fille|<b>Meaning</b>: a young girl<br><b>Phrase: </b><i>Voici une jeune fille.</i>|dossier-1 les-personnes dossier-1-leçon-1
+une relation formelle (professionnelle)|<b>Meaning</b>: a formal (professional) relationship<br><b>Phrase: </b><i>C'est une relation formelle.</i>|dossier-1 les-personnes dossier-1-leçon-1
+une relation informelle (amicale)|<b>Meaning</b>: an informal (friendly) relationship<br><b>Phrase: </b><i>Ils ont une relation informelle.</i>|dossier-1 les-personnes dossier-1-leçon-1
+demander une information|<b>Meaning</b>: to ask for information<br><b>Phrase: </b><i>Je voudrais demander une information.</i>|dossier-1 communiquer dossier-1-leçon-2
+poser des questions|<b>Meaning</b>: to ask questions<br><b>Phrase: </b><i>Je vais poser des questions.</i>|dossier-1 communiquer dossier-1-leçon-2
+répondre|<b>Meaning</b>: to answer<br><b>Phrase: </b><i>Je vais répondre.</i>|dossier-1 communiquer dossier-1-leçon-2
+c'est gratuit|<b>Meaning</b>: it's free<br><b>Phrase: </b><i>C'est gratuit.</i>|dossier-1 demander/dire-le-prix dossier-1-leçon-2
+ça coûte ... euros|<b>Meaning</b>: it costs ... euros<br><b>Phrase: </b><i>Ça coûte 10 euros.</i>|dossier-1 demander/dire-le-prix dossier-1-leçon-2
+combien|<b>Meaning</b>: how much<br><b>Phrase: </b><i>Combien coûte ce livre?</i>|dossier-1 demander/dire-le-prix dossier-1-leçon-2
+compléter un formulaire|<b>Meaning</b>: to fill out a form<br><b>Phrase: </b><i>Complétez le formulaire.</i>|dossier-1 faire-une-inscription dossier-1-leçon-2
+présenter une pièce d'identité|<b>Meaning</b>: to present an ID<br><b>Phrase: </b><i>Présentez une pièce d'identité.</i>|dossier-1 faire-une-inscription dossier-1-leçon-2
+un passeport|<b>Meaning</b>: a passport<br><b>Phrase: </b><i>J'ai besoin de mon passeport.</i>|dossier-1 faire-une-inscription dossier-1-leçon-2
+une carte d'étudiant|<b>Meaning</b>: a student card<br><b>Phrase: </b><i>Voici ma carte d'étudiant.</i>|dossier-1 faire-une-inscription dossier-1-leçon-2
+une carte d'identité|<b>Meaning</b>: an identity card<br><b>Phrase: </b><i>Montrez votre carte d'identité.</i>|dossier-1 faire-une-inscription dossier-1-leçon-2
+une photo|<b>Meaning</b>: a photo<br><b>Phrase: </b><i>Voici une photo.</i>|dossier-1 faire-une-inscription dossier-1-leçon-2
+l'adresse (f.)|<b>Meaning</b>: the address<br><b>Phrase: </b><i>J'habite...</i>|dossier-1 les-informations-personnelles dossier-1-leçon-2
+l'anniversaire (m.)|<b>Meaning</b>: the birthday<br><b>Phrase: </b><i>C'est mon anniversaire.</i>|dossier-1 les-informations-personnelles dossier-1-leçon-2
+la carte de visite|<b>Meaning</b>: the business card<br><b>Phrase: </b><i>Voici ma carte de visite.</i>|dossier-1 les-informations-personnelles dossier-1-leçon-2
+la date de naissance|<b>Meaning</b>: the date of birth<br><b>Phrase: </b><i>Quelle est votre date de naissance?</i>|dossier-1 les-informations-personnelles dossier-1-leçon-2
+le numéro de téléphone|<b>Meaning</b>: the phone number<br><b>Phrase: </b><i>Quel est votre numéro de téléphone?</i>|dossier-1 les-informations-personnelles dossier-1-leçon-2
+les coordonnées (f.)|<b>Meaning</b>: the contact details<br><b>Phrase: </b><i>Voici mes coordonnées.</i>|dossier-1 les-informations-personnelles dossier-1-leçon-2
+un bureau|<b>Meaning</b>: an office<br><b>Phrase: </b><i>Je travaille dans un bureau.</i>|dossier-1 les-lieux dossier-1-leçon-2
+un magasin|<b>Meaning</b>: a store<br><b>Phrase: </b><i>Je vais au magasin.</i>|dossier-1 les-lieux dossier-1-leçon-2
+une médiathèque|<b>Meaning</b>: a media library<br><b>Phrase: </b><i>J'étudie à la médiathèque.</i>|dossier-1 les-lieux dossier-1-leçon-2
+l'année (f.)|<b>Meaning</b>: the year<br><b>Phrase: </b><i>C'est une nouvelle année.</i>|dossier-1 les-moments dossier-1-leçon-2
+les mois (m.)|{'août': '<b>Meaning</b>: August<br><b>Phrase: </b><i>Août est le huitième mois.</i>', 'avril': '<b>Meaning</b>: April<br><b>Phrase: </b><i>Avril vient après mars.</i>', 'décembre': "<b>Meaning</b>: December<br><b>Phrase: </b><i>Décembre est le dernier mois de l'année.</i>", 'février': '<b>Meaning</b>: February<br><b>Phrase: </b><i>Février est le deuxième mois.</i>', 'janvier': "<b>Meaning</b>: January<br><b>Phrase: </b><i>Janvier est le premier mois de l'année.</i>", 'juillet': '<b>Meaning</b>: July<br><b>Phrase: </b><i>Juillet est en été.</i>', 'juin': '<b>Meaning</b>: June<br><b>Phrase: </b><i>Juin est le sixième mois.</i>', 'mai': '<b>Meaning</b>: May<br><b>Phrase: </b><i>Mai est au printemps.</i>', 'mars': '<b>Meaning</b>: March<br><b>Phrase: </b><i>Mars est le troisième mois.</i>', 'novembre': '<b>Meaning</b>: November<br><b>Phrase: </b><i>Novembre est le onzième mois.</i>', 'octobre': '<b>Meaning</b>: October<br><b>Phrase: </b><i>Octobre est en automne.</i>', 'septembre': '<b>Meaning</b>: September<br><b>Phrase: </b><i>Septembre est le neuvième mois.</i>'}|dossier-1 les-moments dossier-1-leçon-2
+un(e) employé(e)|<b>Meaning</b>: an employee<br><b>Phrase: </b><i>Il est un employé. / Elle est une employée.</i>|dossier-1 les-personnes dossier-1-leçon-2
+un(e) étudiant(e)|<b>Meaning</b>: a student<br><b>Phrase: </b><i>Il est un étudiant. / Elle est une étudiante.</i>|dossier-1 les-personnes dossier-1-leçon-2
+les deux points (m.)|<b>Meaning</b>: a colon (:)<br><b>Phrase: </b><i>Utilisez les deux points.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+un arobase|<b>Meaning</b>: an at symbol (@)<br><b>Phrase: </b><i>Mon adresse mail contient un arobase.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+un point|<b>Meaning</b>: a period (.)<br><b>Phrase: </b><i>Fin de la phrase.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+un point d'exclamation|<b>Meaning</b>: an exclamation point (!)<br><b>Phrase: </b><i>Quelle surprise!</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+un point d'interrogation|<b>Meaning</b>: a question mark (?)<br><b>Phrase: </b><i>Quelle heure est-il?</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+un point-virgule|<b>Meaning</b>: a semicolon (;)<br><b>Phrase: </b><i>Utilisez un point-virgule.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+un slash|<b>Meaning</b>: a slash (/)<br><b>Phrase: </b><i>Utilisez un slash.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+un tiret|<b>Meaning</b>: a dash (-)<br><b>Phrase: </b><i>C'est un tiret.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+un tiret bas|<b>Meaning</b>: an underscore (_)<br><b>Phrase: </b><i>Utilisez un tiret bas.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+une parenthèse|<b>Meaning</b>: a parenthesis ( )<br><b>Phrase: </b><i>Mettez cela entre parenthèses.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+une virgule|<b>Meaning</b>: a comma (,)<br><b>Phrase: </b><i>Utilisez une virgule.</i>|dossier-1 signes-et-ponctuation dossier-1-leçon-2
+visiter (un musée)|<b>Meaning</b>: to visit (a museum)<br><b>Phrase: </b><i>Je visite un musée.</i>|dossier-1 les-actions dossier-1-leçon-3
+vivre (dans une ville/un pays)|<b>Meaning</b>: to live (in a city/a country)<br><b>Phrase: </b><i>Je vis à Paris. / Je vis en France.</i>|dossier-1 les-actions dossier-1-leçon-3
+voir (le feu d'artifice)|<b>Meaning</b>: to see (the fireworks)<br><b>Phrase: </b><i>Je vais voir le feu d'artifice.</i>|dossier-1 les-actions dossier-1-leçon-3
+adorer (le cyclisme; la musique...)|<b>Meaning</b>: to love (cycling; music...)<br><b>Phrase: </b><i>J'adore le cyclisme. / J'adore la musique.</i>|dossier-1 les-passions-et-les-rêves dossier-1-leçon-3
+réaliser un rêve|<b>Meaning</b>: to realize a dream<br><b>Phrase: </b><i>Je veux réaliser un rêve.</i>|dossier-1 les-passions-et-les-rêves dossier-1-leçon-3
+rêver de (voir; aller...)|<b>Meaning</b>: to dream of (seeing; going...)<br><b>Phrase: </b><i>Je rêve de voir le monde. / Je rêve d'aller en Italie.</i>|dossier-1 les-passions-et-les-rêves dossier-1-leçon-3
+gagner|<b>Meaning</b>: to win<br><b>Phrase: </b><i>Je veux gagner le prix.</i>|dossier-1 participer-à-un-concours dossier-1-leçon-3
+un bulletin de participation|<b>Meaning</b>: an entry form<br><b>Phrase: </b><i>Remplissez le bulletin de participation.</i>|dossier-1 participer-à-un-concours dossier-1-leçon-3
+un jeu-concours|<b>Meaning</b>: a contest<br><b>Phrase: </b><i>Je participe à un jeu-concours.</i>|dossier-1 participer-à-un-concours dossier-1-leçon-3
+un tirage au sort|<b>Meaning</b>: a draw<br><b>Phrase: </b><i>Le gagnant sera choisi par tirage au sort.</i>|dossier-1 participer-à-un-concours dossier-1-leçon-3
+une annonce|<b>Meaning</b>: an announcement<br><b>Phrase: </b><i>J'ai vu une annonce.</i>|dossier-1 participer-à-un-concours dossier-1-leçon-3

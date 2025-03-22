@@ -1,0 +1,100 @@
+{
+    "Dossier 0": {
+        "Leçon 1": {
+            "Caractériser": {
+                "identique ≠ différent": "<b>Meaning</b>: identical ≠ different<br><b>Phrase: </b><i>Ces deux choses sont identiques. / Ces deux choses sont différentes.</i>"
+            },
+            "La classe de langue": {
+                "la prononciation": "<b>Meaning</b>: the pronunciation<br><b>Phrase: </b><i>La prononciation est importante.</i>",
+                "masculin ≠ féminin": "<b>Meaning</b>: masculine ≠ feminine<br><b>Phrase: </b><i>'Chat' est masculin, 'chatte' est féminin.</i>",
+                "singulier ≠ pluriel": "<b>Meaning</b>: singular ≠ plural<br><b>Phrase: </b><i>'Un livre' est singulier, 'des livres' est pluriel.</i>",
+                "un alphabet": "<b>Meaning</b>: an alphabet<br><b>Phrase: </b><i>L'alphabet français a 26 lettres.</i>",
+                "un exercice": "<b>Meaning</b>: an exercise<br><b>Phrase: </b><i>Faisons un exercice.</i>",
+                "un livre": "<b>Meaning</b>: a book<br><b>Phrase: </b><i>C'est un livre de français.</i>",
+                "un mot": "<b>Meaning</b>: a word<br><b>Phrase: </b><i>C'est un mot difficile.</i>",
+                "une activité": "<b>Meaning</b>: an activity<br><b>Phrase: </b><i>C'est une activité intéressante.</i>",
+                "une classe": "<b>Meaning</b>: a class/classroom<br><b>Phrase: </b><i>J'aime cette classe.</i>",
+                "une consonne": "<b>Meaning</b>: a consonant<br><b>Phrase: </b><i>'B' est une consonne.</i>",
+                "une langue": "<b>Meaning</b>: a language<br><b>Phrase: </b><i>J'apprends une langue étrangère.</i>",
+                "une lettre": "<b>Meaning</b>: a letter<br><b>Phrase: </b><i>C'est une lettre de l'alphabet.</i>",
+                "une voyelle": "<b>Meaning</b>: a vowel<br><b>Phrase: </b><i>'A' est une voyelle.</i>"
+            },
+            "Les activités de classe": {
+                "associer (un dialogue et un dessin)": "<b>Meaning</b>: to match (a dialogue and a drawing)<br><b>Phrase: </b><i>Associez le dialogue et le dessin.</i>",
+                "cocher (la bonne réponse)": "<b>Meaning</b>: to check (the correct answer)<br><b>Phrase: </b><i>Cochez la bonne réponse.</i>",
+                "comprendre (une situation, un mot)": "<b>Meaning</b>: to understand (a situation, a word)<br><b>Phrase: </b><i>Je comprends la situation.</i>",
+                "écouter (un dialogue)": "<b>Meaning</b>: to listen (to a dialogue)<br><b>Phrase: </b><i>Écoutez le dialogue.</i>",
+                "écrire": "<b>Meaning</b>: to write<br><b>Phrase: </b><i>Écrivez une phrase.</i>",
+                "épeler": "<b>Meaning</b>: to spell<br><b>Phrase: </b><i>Épelez votre nom.</i>",
+                "expliquer": "<b>Meaning</b>: to explain<br><b>Phrase: </b><i>Pouvez-vous expliquer cela?</i>",
+                "identifier": "<b>Meaning</b>: to identify<br><b>Phrase: </b><i>Identifiez les mots.</i>",
+                "lire (une page)": "<b>Meaning</b>: to read (a page)<br><b>Phrase: </b><i>Lisez la page 10.</i>",
+                "ouvrir ≠ fermer (un livre)": "<b>Meaning</b>: to open ≠ to close (a book)<br><b>Phrase: </b><i>Ouvrez le livre. / Fermez le livre.</i>",
+                "parler": "<b>Meaning</b>: to speak<br><b>Phrase: </b><i>Je parle français.</i>",
+                "prononcer": "<b>Meaning</b>: to pronounce<br><b>Phrase: </b><i>Prononcez le mot correctement.</i>",
+                "regarder (un dessin)": "<b>Meaning</b>: to look at (a drawing)<br><b>Phrase: </b><i>Regardez le dessin.</i>",
+                "répéter (un mot)": "<b>Meaning</b>: to repeat (a word)<br><b>Phrase: </b><i>Répétez le mot, s'il vous plaît.</i>",
+                "répondre": "<b>Meaning</b>: to answer<br><b>Phrase: </b><i>Répondez à la question.</i>",
+                "souligner (un mot)": "<b>Meaning</b>: to underline (a word)<br><b>Phrase: </b><i>Soulignez le mot important.</i>",
+                "travailler (en groupe, par deux)": "<b>Meaning</b>: to work (in a group, in pairs)<br><b>Phrase: </b><i>Travaillez en groupe. / Travaillez par deux.</i>"
+            },
+            "Les continents": {
+                "l'Afrique (f.)": "<b>Meaning</b>: Africa<br><b>Phrase: </b><i>L'Afrique est un continent.</i>",
+                "l'Amérique (f.)": "<b>Meaning</b>: America<br><b>Phrase: </b><i>L'Amérique est composée de plusieurs pays.</i>",
+                "l'Asie (f.)": "<b>Meaning</b>: Asia<br><b>Phrase: </b><i>L'Asie est le plus grand continent.</i>",
+                "l'Europe (f.)": "<b>Meaning</b>: Europe<br><b>Phrase: </b><i>L'Europe est un continent historique.</i>",
+                "l'Océanie (f.)": "<b>Meaning</b>: Oceania<br><b>Phrase: </b><i>L'Océanie est une région du monde.</i>"
+            },
+            "Les informations personnelles": {
+                "la langue maternelle": "<b>Meaning</b>: the native language<br><b>Phrase: </b><i>Sa langue maternelle est l'anglais.</i>",
+                "la langue parlée": "<b>Meaning</b>: the spoken language<br><b>Phrase: </b><i>La langue parlée ici est le français.</i>",
+                "un nom de famille": "<b>Meaning</b>: a last name<br><b>Phrase: </b><i>Son nom de famille est Dupont.</i>",
+                "un prénom": "<b>Meaning</b>: a first name<br><b>Phrase: </b><i>Mon prénom est Marie.</i>",
+                "une nationalité": "<b>Meaning</b>: a nationality<br><b>Phrase: </b><i>Quelle est votre nationalité?</i>"
+            },
+            "Les pays et nationalités": {
+                "l'Allemagne (f.) : allemand(e)": "<b>Meaning</b>: Germany: German<br><b>Phrase: </b><i>J'habite en Allemagne. / Je suis allemand. / Je suis allemande.</i>",
+                "l'Autriche (f.) : autrichien(ne)": "<b>Meaning</b>: Austria: Austrian<br><b>Phrase: </b><i>Elle vient d'Autriche. / Il est autrichien. / Elle est autrichienne.</i>",
+                "l'Espagne (f.) : espagnol(e)": "<b>Meaning</b>: Spain: Spanish<br><b>Phrase: </b><i>L'Espagne est belle. / Il est espagnol. / Elle est espagnole.</i>",
+                "l'Iran (m.) : iranien(ne)": "<b>Meaning</b>: Iran: Iranian<br><b>Phrase: </b><i>L'Iran a une culture riche. / Il est iranien. / Elle est iranienne.</i>",
+                "l'Italie (f.) : italien(ne)": "<b>Meaning</b>: Italy: Italian<br><b>Phrase: </b><i>L'Italie est célèbre pour sa cuisine. / Il est italien. / Elle est italienne.</i>",
+                "la Chine : chinois(e)": "<b>Meaning</b>: China: Chinese<br><b>Phrase: </b><i>La Chine est un grand pays. / Il est chinois. / Elle est chinoise.</i>",
+                "la Corée : coréen(ne)": "<b>Meaning</b>: Korea: Korean<br><b>Phrase: </b><i>J'aime la Corée. / Il est coréen. / Elle est coréenne.</i>",
+                "la France : français(e)": "<b>Meaning</b>: France: French<br><b>Phrase: </b><i>J'adore la France. / Il est français. / Elle est française.</i>",
+                "la Grèce : grec(que)": "<b>Meaning</b>: Greece: Greek<br><b>Phrase: </b><i>La Grèce est historique. / Il est grec. / Elle est grecque.</i>",
+                "la Pologne : polonais(e)": "<b>Meaning</b>: Poland: Polish<br><b>Phrase: </b><i>La Pologne a une histoire riche. / Il est polonais. / Elle est polonaise.</i>",
+                "la Russie : russe": "<b>Meaning</b>: Russia: Russian<br><b>Phrase: </b><i>La Russie est un grand pays. / Il est russe. / Elle est russe.</i>",
+                "la Suède : suédois(e)": "<b>Meaning</b>: Sweden: Swedish<br><b>Phrase: </b><i>La Suède est un pays scandinave. / Il est suédois. / Elle est suédoise.</i>",
+                "la Suisse : suisse": "<b>Meaning</b>: Switzerland: Swiss<br><b>Phrase: </b><i>La Suisse est connue pour ses montagnes. / Il est suisse. / Elle est suisse.</i>",
+                "la Thaïlande : thaïlandais(e)": "<b>Meaning</b>: Thailand: Thai<br><b>Phrase: </b><i>La Thaïlande est populaire. / Il est thaïlandais. / Elle est thaïlandaise.</i>",
+                "la Tunisie : tunisien(ne)": "<b>Meaning</b>: Tunisia: Tunisian<br><b>Phrase: </b><i>La Tunisie est en Afrique. / Il est tunisien. / Elle est tunisienne.</i>",
+                "la Turquie : turc, turque": "<b>Meaning</b>: Turkey: Turkish<br><b>Phrase: </b><i>La Turquie est entre l'Europe et l'Asie. / Il est turc. / Elle est turque.</i>",
+                "le Cambodge : cambodgien(ne)": "<b>Meaning</b>: Cambodia: Cambodian<br><b>Phrase: </b><i>C'est au Cambodge. / Il est cambodgien. / Elle est cambodgienne.</i>",
+                "le Canada : canadien(ne)": "<b>Meaning</b>: Canada: Canadian<br><b>Phrase: </b><i>Nous visitons le Canada. / Il est canadien. / Elle est canadienne.</i>",
+                "le Danemark : danois(e)": "<b>Meaning</b>: Denmark: Danish<br><b>Phrase: </b><i>C'est le Danemark. / Il est danois. / Elle est danoise.</i>",
+                "le Japon : japonais(e)": "<b>Meaning</b>: Japan: Japanese<br><b>Phrase: </b><i>Le Japon est fascinant. / Il est japonais. / Elle est japonaise.</i>",
+                "le Maroc : marocain(e)": "<b>Meaning</b>: Morocco: Moroccan<br><b>Phrase: </b><i>Le Maroc est exotique. / Il est marocain. / Elle est marocaine.</i>",
+                "le Mexique : mexicain(e)": "<b>Meaning</b>: Mexico: Mexican<br><b>Phrase: </b><i>J'aime le Mexique. / Il est mexicain. / Elle est mexicaine.</i>",
+                "le Portugal : portugais(e)": "<b>Meaning</b>: Portugal: Portuguese<br><b>Phrase: </b><i>Le Portugal est en Europe. / Il est portugais. / Elle est portugaise.</i>",
+                "le Vietnam : vietnamien(ne)": "<b>Meaning</b>: Vietnam: Vietnamese<br><b>Phrase: </b><i>Le Vietnam a une histoire riche. / Il est vietnamien. / Elle est vietnamienne.</i>",
+                "le Zimbabwe : zimbabwéen(ne)": "<b>Meaning</b>: Zimbabwe: Zimbabwean<br><b>Phrase: </b><i>Le Zimbabwe est en Afrique. / Il est zimbabwéen. / Elle est zimbabwéenne.</i>",
+                "les États-Unis : américain(e)": "<b>Meaning</b>: the United States: American<br><b>Phrase: </b><i>Je vais aux États-Unis. / Il est américain. / Elle est américaine.</i>",
+                "les Pays-Bas (m.) : néerlandais(e)": "<b>Meaning</b>: the Netherlands: Dutch<br><b>Phrase: </b><i>Je vais aux Pays-Bas. / Il est néerlandais. / Elle est néerlandaise.</i>",
+                "les Philippines (f.) : philippin(e)": "<b>Meaning</b>: the Philippines: Filipino<br><b>Phrase: </b><i>Les Philippines sont magnifiques. / Il est philippin. / Elle est philippine.</i>"
+            },
+            "Les personnes": {
+                "un groupe": "<b>Meaning</b>: a group<br><b>Phrase: </b><i>C'est un groupe d'amis.</i>",
+                "un homme": "<b>Meaning</b>: a man<br><b>Phrase: </b><i>Il est un homme grand.</i>",
+                "un professeur": "<b>Meaning</b>: a teacher<br><b>Phrase: </b><i>Elle est professeur de français.</i>",
+                "un(e) étudiant(e)": "<b>Meaning</b>: a student<br><b>Phrase: </b><i>Je suis étudiant en biologie. / Elle est étudiante en histoire.</i>",
+                "une femme": "<b>Meaning</b>: a woman<br><b>Phrase: </b><i>C'est une femme gentille.</i>",
+                "une personne": "<b>Meaning</b>: a person<br><b>Phrase: </b><i>C'est une personne intéressante.</i>"
+            },
+            "Se présenter": {
+                "être": "<b>Meaning</b>: to be<br><b>Phrase: </b><i>Je suis fatigué.</i>",
+                "faire connaissance": "<b>Meaning</b>: to get acquainted/to meet<br><b>Phrase: </b><i>Nous faisons connaissance.</i>",
+                "s'appeler": "<b>Meaning</b>: to be called<br><b>Phrase: </b><i>Je m'appelle Pierre.</i>"
+            }
+        }
+    }
+}

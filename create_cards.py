@@ -187,7 +187,7 @@ def main():
         )
 
     for name, schema in json_schemas:
-        path = pathlib.Path(args.outpath / f'fiches_de_{name}.txt')
+        path = pathlib.Path(args.outpath / f'les_fiches_{name}.txt')
         card_file_text = create_anki_file(schema)
         path.write_text(card_file_text, encoding='utf-8')
 

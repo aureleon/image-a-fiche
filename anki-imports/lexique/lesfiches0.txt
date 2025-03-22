@@ -1,0 +1,78 @@
+identique ≠ différent|<b>Meaning</b>: identical ≠ different<br><b>Phrase: </b><i>Ces deux choses sont identiques. / Ces deux choses sont différentes.</i>|dossier-0 caractériser dossier-0-leçon-1
+la prononciation|<b>Meaning</b>: the pronunciation<br><b>Phrase: </b><i>La prononciation est importante.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+masculin ≠ féminin|<b>Meaning</b>: masculine ≠ feminine<br><b>Phrase: </b><i>'Chat' est masculin, 'chatte' est féminin.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+singulier ≠ pluriel|<b>Meaning</b>: singular ≠ plural<br><b>Phrase: </b><i>'Un livre' est singulier, 'des livres' est pluriel.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+un alphabet|<b>Meaning</b>: an alphabet<br><b>Phrase: </b><i>L'alphabet français a 26 lettres.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+un exercice|<b>Meaning</b>: an exercise<br><b>Phrase: </b><i>Faisons un exercice.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+un livre|<b>Meaning</b>: a book<br><b>Phrase: </b><i>C'est un livre de français.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+un mot|<b>Meaning</b>: a word<br><b>Phrase: </b><i>C'est un mot difficile.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+une activité|<b>Meaning</b>: an activity<br><b>Phrase: </b><i>C'est une activité intéressante.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+une classe|<b>Meaning</b>: a class/classroom<br><b>Phrase: </b><i>J'aime cette classe.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+une consonne|<b>Meaning</b>: a consonant<br><b>Phrase: </b><i>'B' est une consonne.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+une langue|<b>Meaning</b>: a language<br><b>Phrase: </b><i>J'apprends une langue étrangère.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+une lettre|<b>Meaning</b>: a letter<br><b>Phrase: </b><i>C'est une lettre de l'alphabet.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+une voyelle|<b>Meaning</b>: a vowel<br><b>Phrase: </b><i>'A' est une voyelle.</i>|dossier-0 la-classe-de-langue dossier-0-leçon-1
+associer (un dialogue et un dessin)|<b>Meaning</b>: to match (a dialogue and a drawing)<br><b>Phrase: </b><i>Associez le dialogue et le dessin.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+cocher (la bonne réponse)|<b>Meaning</b>: to check (the correct answer)<br><b>Phrase: </b><i>Cochez la bonne réponse.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+comprendre (une situation, un mot)|<b>Meaning</b>: to understand (a situation, a word)<br><b>Phrase: </b><i>Je comprends la situation.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+écouter (un dialogue)|<b>Meaning</b>: to listen (to a dialogue)<br><b>Phrase: </b><i>Écoutez le dialogue.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+écrire|<b>Meaning</b>: to write<br><b>Phrase: </b><i>Écrivez une phrase.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+épeler|<b>Meaning</b>: to spell<br><b>Phrase: </b><i>Épelez votre nom.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+expliquer|<b>Meaning</b>: to explain<br><b>Phrase: </b><i>Pouvez-vous expliquer cela?</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+identifier|<b>Meaning</b>: to identify<br><b>Phrase: </b><i>Identifiez les mots.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+lire (une page)|<b>Meaning</b>: to read (a page)<br><b>Phrase: </b><i>Lisez la page 10.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+ouvrir ≠ fermer (un livre)|<b>Meaning</b>: to open ≠ to close (a book)<br><b>Phrase: </b><i>Ouvrez le livre. / Fermez le livre.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+parler|<b>Meaning</b>: to speak<br><b>Phrase: </b><i>Je parle français.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+prononcer|<b>Meaning</b>: to pronounce<br><b>Phrase: </b><i>Prononcez le mot correctement.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+regarder (un dessin)|<b>Meaning</b>: to look at (a drawing)<br><b>Phrase: </b><i>Regardez le dessin.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+répéter (un mot)|<b>Meaning</b>: to repeat (a word)<br><b>Phrase: </b><i>Répétez le mot, s'il vous plaît.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+répondre|<b>Meaning</b>: to answer<br><b>Phrase: </b><i>Répondez à la question.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+souligner (un mot)|<b>Meaning</b>: to underline (a word)<br><b>Phrase: </b><i>Soulignez le mot important.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+travailler (en groupe, par deux)|<b>Meaning</b>: to work (in a group, in pairs)<br><b>Phrase: </b><i>Travaillez en groupe. / Travaillez par deux.</i>|dossier-0 les-activités-de-classe dossier-0-leçon-1
+l'Afrique (f.)|<b>Meaning</b>: Africa<br><b>Phrase: </b><i>L'Afrique est un continent.</i>|dossier-0 les-continents dossier-0-leçon-1
+l'Amérique (f.)|<b>Meaning</b>: America<br><b>Phrase: </b><i>L'Amérique est composée de plusieurs pays.</i>|dossier-0 les-continents dossier-0-leçon-1
+l'Asie (f.)|<b>Meaning</b>: Asia<br><b>Phrase: </b><i>L'Asie est le plus grand continent.</i>|dossier-0 les-continents dossier-0-leçon-1
+l'Europe (f.)|<b>Meaning</b>: Europe<br><b>Phrase: </b><i>L'Europe est un continent historique.</i>|dossier-0 les-continents dossier-0-leçon-1
+l'Océanie (f.)|<b>Meaning</b>: Oceania<br><b>Phrase: </b><i>L'Océanie est une région du monde.</i>|dossier-0 les-continents dossier-0-leçon-1
+la langue maternelle|<b>Meaning</b>: the native language<br><b>Phrase: </b><i>Sa langue maternelle est l'anglais.</i>|dossier-0 les-informations-personnelles dossier-0-leçon-1
+la langue parlée|<b>Meaning</b>: the spoken language<br><b>Phrase: </b><i>La langue parlée ici est le français.</i>|dossier-0 les-informations-personnelles dossier-0-leçon-1
+un nom de famille|<b>Meaning</b>: a last name<br><b>Phrase: </b><i>Son nom de famille est Dupont.</i>|dossier-0 les-informations-personnelles dossier-0-leçon-1
+un prénom|<b>Meaning</b>: a first name<br><b>Phrase: </b><i>Mon prénom est Marie.</i>|dossier-0 les-informations-personnelles dossier-0-leçon-1
+une nationalité|<b>Meaning</b>: a nationality<br><b>Phrase: </b><i>Quelle est votre nationalité?</i>|dossier-0 les-informations-personnelles dossier-0-leçon-1
+l'Allemagne (f.) : allemand(e)|<b>Meaning</b>: Germany: German<br><b>Phrase: </b><i>J'habite en Allemagne. / Je suis allemand. / Je suis allemande.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+l'Autriche (f.) : autrichien(ne)|<b>Meaning</b>: Austria: Austrian<br><b>Phrase: </b><i>Elle vient d'Autriche. / Il est autrichien. / Elle est autrichienne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+l'Espagne (f.) : espagnol(e)|<b>Meaning</b>: Spain: Spanish<br><b>Phrase: </b><i>L'Espagne est belle. / Il est espagnol. / Elle est espagnole.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+l'Iran (m.) : iranien(ne)|<b>Meaning</b>: Iran: Iranian<br><b>Phrase: </b><i>L'Iran a une culture riche. / Il est iranien. / Elle est iranienne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+l'Italie (f.) : italien(ne)|<b>Meaning</b>: Italy: Italian<br><b>Phrase: </b><i>L'Italie est célèbre pour sa cuisine. / Il est italien. / Elle est italienne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Chine : chinois(e)|<b>Meaning</b>: China: Chinese<br><b>Phrase: </b><i>La Chine est un grand pays. / Il est chinois. / Elle est chinoise.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Corée : coréen(ne)|<b>Meaning</b>: Korea: Korean<br><b>Phrase: </b><i>J'aime la Corée. / Il est coréen. / Elle est coréenne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la France : français(e)|<b>Meaning</b>: France: French<br><b>Phrase: </b><i>J'adore la France. / Il est français. / Elle est française.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Grèce : grec(que)|<b>Meaning</b>: Greece: Greek<br><b>Phrase: </b><i>La Grèce est historique. / Il est grec. / Elle est grecque.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Pologne : polonais(e)|<b>Meaning</b>: Poland: Polish<br><b>Phrase: </b><i>La Pologne a une histoire riche. / Il est polonais. / Elle est polonaise.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Russie : russe|<b>Meaning</b>: Russia: Russian<br><b>Phrase: </b><i>La Russie est un grand pays. / Il est russe. / Elle est russe.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Suède : suédois(e)|<b>Meaning</b>: Sweden: Swedish<br><b>Phrase: </b><i>La Suède est un pays scandinave. / Il est suédois. / Elle est suédoise.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Suisse : suisse|<b>Meaning</b>: Switzerland: Swiss<br><b>Phrase: </b><i>La Suisse est connue pour ses montagnes. / Il est suisse. / Elle est suisse.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Thaïlande : thaïlandais(e)|<b>Meaning</b>: Thailand: Thai<br><b>Phrase: </b><i>La Thaïlande est populaire. / Il est thaïlandais. / Elle est thaïlandaise.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Tunisie : tunisien(ne)|<b>Meaning</b>: Tunisia: Tunisian<br><b>Phrase: </b><i>La Tunisie est en Afrique. / Il est tunisien. / Elle est tunisienne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+la Turquie : turc, turque|<b>Meaning</b>: Turkey: Turkish<br><b>Phrase: </b><i>La Turquie est entre l'Europe et l'Asie. / Il est turc. / Elle est turque.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Cambodge : cambodgien(ne)|<b>Meaning</b>: Cambodia: Cambodian<br><b>Phrase: </b><i>C'est au Cambodge. / Il est cambodgien. / Elle est cambodgienne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Canada : canadien(ne)|<b>Meaning</b>: Canada: Canadian<br><b>Phrase: </b><i>Nous visitons le Canada. / Il est canadien. / Elle est canadienne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Danemark : danois(e)|<b>Meaning</b>: Denmark: Danish<br><b>Phrase: </b><i>C'est le Danemark. / Il est danois. / Elle est danoise.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Japon : japonais(e)|<b>Meaning</b>: Japan: Japanese<br><b>Phrase: </b><i>Le Japon est fascinant. / Il est japonais. / Elle est japonaise.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Maroc : marocain(e)|<b>Meaning</b>: Morocco: Moroccan<br><b>Phrase: </b><i>Le Maroc est exotique. / Il est marocain. / Elle est marocaine.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Mexique : mexicain(e)|<b>Meaning</b>: Mexico: Mexican<br><b>Phrase: </b><i>J'aime le Mexique. / Il est mexicain. / Elle est mexicaine.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Portugal : portugais(e)|<b>Meaning</b>: Portugal: Portuguese<br><b>Phrase: </b><i>Le Portugal est en Europe. / Il est portugais. / Elle est portugaise.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Vietnam : vietnamien(ne)|<b>Meaning</b>: Vietnam: Vietnamese<br><b>Phrase: </b><i>Le Vietnam a une histoire riche. / Il est vietnamien. / Elle est vietnamienne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+le Zimbabwe : zimbabwéen(ne)|<b>Meaning</b>: Zimbabwe: Zimbabwean<br><b>Phrase: </b><i>Le Zimbabwe est en Afrique. / Il est zimbabwéen. / Elle est zimbabwéenne.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+les États-Unis : américain(e)|<b>Meaning</b>: the United States: American<br><b>Phrase: </b><i>Je vais aux États-Unis. / Il est américain. / Elle est américaine.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+les Pays-Bas (m.) : néerlandais(e)|<b>Meaning</b>: the Netherlands: Dutch<br><b>Phrase: </b><i>Je vais aux Pays-Bas. / Il est néerlandais. / Elle est néerlandaise.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+les Philippines (f.) : philippin(e)|<b>Meaning</b>: the Philippines: Filipino<br><b>Phrase: </b><i>Les Philippines sont magnifiques. / Il est philippin. / Elle est philippine.</i>|dossier-0 les-pays-et-nationalités dossier-0-leçon-1
+un groupe|<b>Meaning</b>: a group<br><b>Phrase: </b><i>C'est un groupe d'amis.</i>|dossier-0 les-personnes dossier-0-leçon-1
+un homme|<b>Meaning</b>: a man<br><b>Phrase: </b><i>Il est un homme grand.</i>|dossier-0 les-personnes dossier-0-leçon-1
+un professeur|<b>Meaning</b>: a teacher<br><b>Phrase: </b><i>Elle est professeur de français.</i>|dossier-0 les-personnes dossier-0-leçon-1
+un(e) étudiant(e)|<b>Meaning</b>: a student<br><b>Phrase: </b><i>Je suis étudiant en biologie. / Elle est étudiante en histoire.</i>|dossier-0 les-personnes dossier-0-leçon-1
+une femme|<b>Meaning</b>: a woman<br><b>Phrase: </b><i>C'est une femme gentille.</i>|dossier-0 les-personnes dossier-0-leçon-1
+une personne|<b>Meaning</b>: a person<br><b>Phrase: </b><i>C'est une personne intéressante.</i>|dossier-0 les-personnes dossier-0-leçon-1
+être|<b>Meaning</b>: to be<br><b>Phrase: </b><i>Je suis fatigué.</i>|dossier-0 se-présenter dossier-0-leçon-1
+faire connaissance|<b>Meaning</b>: to get acquainted/to meet<br><b>Phrase: </b><i>Nous faisons connaissance.</i>|dossier-0 se-présenter dossier-0-leçon-1
+s'appeler|<b>Meaning</b>: to be called<br><b>Phrase: </b><i>Je m'appelle Pierre.</i>|dossier-0 se-présenter dossier-0-leçon-1

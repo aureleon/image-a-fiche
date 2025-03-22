@@ -1,0 +1,147 @@
+{
+    "Dossier 2": {
+        "Leçon 1": {
+            "autres": {
+                "un hôpital": "<b>Meaning</b>: a hospital<br><b>Phrase: </b><i>Il travaille à l'hôpital.</i>",
+                "un pont": "<b>Meaning</b>: a bridge<br><b>Phrase: </b><i>Je traverse le pont.</i>",
+                "une cathédrale": "<b>Meaning</b>: a cathedral<br><b>Phrase: </b><i>C'est une belle cathédrale.</i>",
+                "une église": "<b>Meaning</b>: a church<br><b>Phrase: </b><i>Je vais à l'église.</i>"
+            },
+            "l'éducation (f.)": {
+                "une école": "<b>Meaning</b>: a school<br><b>Phrase: </b><i>Je vais à l'école.</i>",
+                "une université": "<b>Meaning</b>: a university<br><b>Phrase: </b><i>J'étudie à l'université.</i>"
+            },
+            "la culture, l'art (m.) et l'histoire (f.)": {
+                "un château": "<b>Meaning</b>: a castle<br><b>Phrase: </b><i>C'est un beau château.</i>",
+                "un cinéma": "<b>Meaning</b>: a cinema<br><b>Phrase: </b><i>Allons au cinéma.</i>",
+                "un musée": "<b>Meaning</b>: a museum<br><b>Phrase: </b><i>Je visite un musée.</i>",
+                "un théâtre": "<b>Meaning</b>: a theater<br><b>Phrase: </b><i>J'aime aller au théâtre.</i>",
+                "une bibliothèque": "<b>Meaning</b>: a library<br><b>Phrase: </b><i>J'aime la bibliothèque.</i>"
+            },
+            "la nature": {
+                "un jardin": "<b>Meaning</b>: a garden<br><b>Phrase: </b><i>J'aime me promener dans le jardin.</i>",
+                "un parc": "<b>Meaning</b>: a park<br><b>Phrase: </b><i>Le parc est grand.</i>",
+                "une rivière": "<b>Meaning</b>: a river<br><b>Phrase: </b><i>La rivière coule.</i>"
+            },
+            "les administrations (f.)": {
+                "l'hôtel de ville (m.) = la mairie": "<b>Meaning</b>: the city hall<br><b>Phrase: </b><i>L'hôtel de ville est beau. / La mairie est ouverte.</i>",
+                "la poste": "<b>Meaning</b>: the post office<br><b>Phrase: </b><i>Je vais à la poste.</i>"
+            },
+            "les commerces (m.) et la vie quotidienne": {
+                "un marché": "<b>Meaning</b>: a market<br><b>Phrase: </b><i>Je vais au marché.</i>",
+                "un restaurant": "<b>Meaning</b>: a restaurant<br><b>Phrase: </b><i>On mange au restaurant.</i>",
+                "un supermarché": "<b>Meaning</b>: a supermarket<br><b>Phrase: </b><i>Je fais les courses au supermarché.</i>",
+                "une boulangerie": "<b>Meaning</b>: a bakery<br><b>Phrase: </b><i>J'achète du pain à la boulangerie.</i>",
+                "une pharmacie": "<b>Meaning</b>: a pharmacy<br><b>Phrase: </b><i>J'achète des médicaments à la pharmacie.</i>"
+            },
+            "Les écrits et images": {
+                "un dépliant": "<b>Meaning</b>: a leaflet/brochure<br><b>Phrase: </b><i>Voici un dépliant touristique.</i>",
+                "un forum Internet": "<b>Meaning</b>: an internet forum<br><b>Phrase: </b><i>Je participe à un forum Internet.</i>",
+                "un magazine": "<b>Meaning</b>: a magazine<br><b>Phrase: </b><i>J'aime lire des magazines.</i>",
+                "une affiche": "<b>Meaning</b>: a poster<br><b>Phrase: </b><i>Il y a une affiche sur le mur.</i>"
+            },
+            "Les lieux": {
+                "un département": "<b>Meaning</b>: a department (administrative region in France)<br><b>Phrase: </b><i>Quel département?</i>",
+                "un lieu = un endroit": "<b>Meaning</b>: a place<br><b>Phrase: </b><i>C'est un beau lieu. / C'est un bel endroit.</i>",
+                "une banlieue": "<b>Meaning</b>: a suburb<br><b>Phrase: </b><i>J'habite en banlieue.</i>",
+                "une région": "<b>Meaning</b>: a region<br><b>Phrase: </b><i>La France a plusieurs régions.</i>",
+                "une rue": "<b>Meaning</b>: a street<br><b>Phrase: </b><i>J'habite dans cette rue.</i>",
+                "une ville": "<b>Meaning</b>: a city<br><b>Phrase: </b><i>Paris est une grande ville.</i>"
+            },
+            "Localiser": {
+                "à côté de": "<b>Meaning</b>: next to<br><b>Phrase: </b><i>La banque est à côté de la poste.</i>",
+                "à droite de": "<b>Meaning</b>: to the right of<br><b>Phrase: </b><i>Le restaurant est à droite du musée.</i>",
+                "à gauche de": "<b>Meaning</b>: to the left of<br><b>Phrase: </b><i>Le cinéma est à gauche de l'école.</i>",
+                "dans": "<b>Meaning</b>: in<br><b>Phrase: </b><i>Le livre est dans le sac.</i>",
+                "derrière": "<b>Meaning</b>: behind<br><b>Phrase: </b><i>Le jardin est derrière la maison.</i>",
+                "devant": "<b>Meaning</b>: in front of<br><b>Phrase: </b><i>La voiture est devant la maison.</i>",
+                "en face de": "<b>Meaning</b>: opposite<br><b>Phrase: </b><i>La pharmacie est en face du supermarché.</i>",
+                "ici": "<b>Meaning</b>: here<br><b>Phrase: </b><i>C'est ici.</i>",
+                "loin de": "<b>Meaning</b>: far from<br><b>Phrase: </b><i>La plage est loin de la ville.</i>",
+                "près de": "<b>Meaning</b>: near<br><b>Phrase: </b><i>La gare est près de l'hôtel.</i>",
+                "sous": "<b>Meaning</b>: under<br><b>Phrase: </b><i>Le chat est sous la chaise.</i>",
+                "sur": "<b>Meaning</b>: on<br><b>Phrase: </b><i>Le livre est sur la table.</i>"
+            }
+        },
+        "Leçon 2": {
+            "demander/indiquer un itinéraire": {
+                "aller/continuer tout droit": "<b>Meaning</b>: to go/continue straight ahead<br><b>Phrase: </b><i>Allez tout droit. / Continuez tout droit.</i>",
+                "aller/tourner à gauche, à droite": "<b>Meaning</b>: to go/turn left, right<br><b>Phrase: </b><i>Tournez à gauche. / Tournez à droite.</i>",
+                "chercher": "<b>Meaning</b>: to look for<br><b>Phrase: </b><i>Je cherche la rue...</i>",
+                "prendre (la rue...)": "<b>Meaning</b>: to take (the street...)<br><b>Phrase: </b><i>Prenez la rue...</i>",
+                "se trouver": "<b>Meaning</b>: to be located<br><b>Phrase: </b><i>Où se trouve la gare?</i>",
+                "traverser/descendre une rue": "<b>Meaning</b>: to cross/go down a street<br><b>Phrase: </b><i>Traversez la rue. / Descendez la rue.</i>"
+            },
+            "Faire une réservation": {
+                "le petit déjeuner (inclus)": "<b>Meaning</b>: breakfast (included)<br><b>Phrase: </b><i>Le petit déjeuner est inclus.</i>",
+                "le prix = le tarif": "<b>Meaning</b>: the price = the rate<br><b>Phrase: </b><i>Quel est le prix? / Quel est le tarif?</i>",
+                "les horaires d'ouverture (m.)": "<b>Meaning</b>: the opening hours<br><b>Phrase: </b><i>Quels sont les horaires d'ouverture?</i>"
+            },
+            "L'hébergement": {
+                "des toilettes (f.)": "<b>Meaning</b>: a toilet/restroom<br><b>Phrase: </b><i>Où sont les toilettes?</i>",
+                "un drap": "<b>Meaning</b>: a sheet<br><b>Phrase: </b><i>Change les draps, s'il te plaît.</i>",
+                "un hôtel (2, 3... étoiles)": "<b>Meaning</b>: a hotel (2, 3... stars)<br><b>Phrase: </b><i>C'est un hôtel 3 étoiles.</i>",
+                "un lavabo": "<b>Meaning</b>: a sink<br><b>Phrase: </b><i>Je me lave les mains au lavabo.</i>",
+                "un lit": "<b>Meaning</b>: a bed<br><b>Phrase: </b><i>Je vais au lit.</i>",
+                "une auberge de jeunesse": "<b>Meaning</b>: a youth hostel<br><b>Phrase: </b><i>Je loge dans une auberge de jeunesse.</i>",
+                "une chambre (simple/double)": "<b>Meaning</b>: a room (single/double)<br><b>Phrase: </b><i>Je veux une chambre double. / Je veux une chambre simple.</i>",
+                "une cuisine": "<b>Meaning</b>: a kitchen<br><b>Phrase: </b><i>Je prépare le repas dans la cuisine.</i>",
+                "une douche": "<b>Meaning</b>: a shower<br><b>Phrase: </b><i>Je prends une douche.</i>",
+                "une salle de bains": "<b>Meaning</b>: a bathroom<br><b>Phrase: </b><i>La chambre a une salle de bains.</i>"
+            },
+            "Se déplacer": {
+                "aller à pied": "<b>Meaning</b>: to go on foot/to walk<br><b>Phrase: </b><i>Je vais à pied.</i>",
+                "prendre le train": "<b>Meaning</b>: to take the train<br><b>Phrase: </b><i>Je prends le train.</i>"
+            }
+        },
+        "Leçon 3": {
+            "Caractériser": {
+                "content(e)": "<b>Meaning</b>: happy<br><b>Phrase: </b><i>Je suis content. / Je suis contente.</i>",
+                "extraordinaire": "<b>Meaning</b>: extraordinary<br><b>Phrase: </b><i>C'est extraordinaire.</i>",
+                "génial(e)": "<b>Meaning</b>: great/awesome<br><b>Phrase: </b><i>C'est génial!</i>",
+                "magnifique": "<b>Meaning</b>: magnificent<br><b>Phrase: </b><i>C'est magnifique.</i>",
+                "merveilleux(euse)": "<b>Meaning</b>: wonderful<br><b>Phrase: </b><i>C'est merveilleux. / C'est merveilleuse.</i>",
+                "moderne": "<b>Meaning</b>: modern<br><b>Phrase: </b><i>C'est moderne.</i>",
+                "super": "<b>Meaning</b>: super<br><b>Phrase: </b><i>C'est super!</i>",
+                "triste": "<b>Meaning</b>: sad<br><b>Phrase: </b><i>Je suis triste.</i>"
+            },
+            "La correspondance": {
+                "un code postal": "<b>Meaning</b>: a postal code/zip code<br><b>Phrase: </b><i>Quel est le code postal?</i>",
+                "un timbre": "<b>Meaning</b>: a stamp<br><b>Phrase: </b><i>Il faut un timbre.</i>",
+                "un(e) destinataire": "<b>Meaning</b>: a recipient<br><b>Phrase: </b><i>C'est le destinataire de la lettre.</i>",
+                "un(e) expéditeur(trice)": "<b>Meaning</b>: a sender<br><b>Phrase: </b><i>C'est l'expéditeur de la lettre.</i>",
+                "un(e) facteur(trice)": "<b>Meaning</b>: a mail carrier/mailman/mailwoman<br><b>Phrase: </b><i>Le facteur apporte le courrier.</i>",
+                "une carte postale": "<b>Meaning</b>: a postcard<br><b>Phrase: </b><i>J'envoie une carte postale.</i>",
+                "une lettre": "<b>Meaning</b>: a letter<br><b>Phrase: </b><i>J'écris une lettre.</i>"
+            },
+            "La météo": {
+                "faire beau": "<b>Meaning</b>: to be nice (weather)<br><b>Phrase: </b><i>Il fait beau.</i>",
+                "faire chaud": "<b>Meaning</b>: to be hot<br><b>Phrase: </b><i>Il fait chaud.</i>",
+                "froid": "<b>Meaning</b>: cold<br><b>Phrase: </b><i>Il fait froid.</i>",
+                "la météo = le temps": "<b>Meaning</b>: the weather<br><b>Phrase: </b><i>Quelle est la météo? / Quel temps fait-il?</i>",
+                "mauvais": "<b>Meaning</b>: bad (weather)<br><b>Phrase: </b><i>Il fait mauvais.</i>"
+            },
+            "Les lieux": {
+                "la montagne": "<b>Meaning</b>: the mountain<br><b>Phrase: </b><i>J'aime la montagne.</i>",
+                "la plage": "<b>Meaning</b>: the beach<br><b>Phrase: </b><i>Je vais à la plage.</i>"
+            },
+            "Les moments": {
+                "aujourd'hui": "<b>Meaning</b>: today<br><b>Phrase: </b><i>C'est aujourd'hui.</i>",
+                "demain": "<b>Meaning</b>: tomorrow<br><b>Phrase: </b><i>Je serai là demain.</i>",
+                "hier": "<b>Meaning</b>: yesterday<br><b>Phrase: </b><i>J'étais là hier.</i>"
+            },
+            "Les vacances et loisirs": {
+                "faire du shopping": "<b>Meaning</b>: to go shopping<br><b>Phrase: </b><i>J'aime faire du shopping.</i>",
+                "passer ses vacances": "<b>Meaning</b>: to spend one's holidays<br><b>Phrase: </b><i>Je passe mes vacances à la mer.</i>",
+                "se baigner": "<b>Meaning</b>: to swim<br><b>Phrase: </b><i>On peut se baigner.</i>"
+            },
+            "Se déplacer": {
+                "aller à (la destination)": "<b>Meaning</b>: to go to (the destination)<br><b>Phrase: </b><i>Je vais à Paris.</i>",
+                "marcher": "<b>Meaning</b>: to walk<br><b>Phrase: </b><i>J'aime marcher.</i>",
+                "rentrer de (la provenance)": "<b>Meaning</b>: to return from (the origin)<br><b>Phrase: </b><i>Je rentre de vacances.</i>",
+                "se promener": "<b>Meaning</b>: to take a walk<br><b>Phrase: </b><i>J'aime me promener dans le parc.</i>",
+                "venir de": "<b>Meaning</b>: to come from<br><b>Phrase: </b><i>Je viens de France.</i>"
+            }
+        }
+    }
+}

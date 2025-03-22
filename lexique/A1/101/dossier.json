@@ -1,0 +1,163 @@
+{
+    "Dossier 1": {
+        "Leçon 1": {
+            "Communiquer": {
+                "contacter": "<b>Meaning</b>: to contact<br><b>Phrase: </b><i>Je vais le contacter.</i>",
+                "faire la bise": "<b>Meaning</b>: to kiss on the cheeks<br><b>Phrase: </b><i>On fait la bise en France.</i>",
+                "faire un signe de la main": "<b>Meaning</b>: to wave<br><b>Phrase: </b><i>Je lui ai fait un signe de la main.</i>",
+                "saluer ≠ prendre congé": "<b>Meaning</b>: to greet ≠ to say goodbye<br><b>Phrase: </b><i>Je salue mes amis. / Je prends congé de mes amis.</i>",
+                "serrer la main": "<b>Meaning</b>: to shake hands<br><b>Phrase: </b><i>On se serre la main.</i>"
+            },
+            "Internet": {
+                "donner/confirmer un mot de passe": "<b>Meaning</b>: to give/confirm a password<br><b>Phrase: </b><i>Donnez votre mot de passe. / Confirmez votre mot de passe.</i>",
+                "un contact": "<b>Meaning</b>: a contact<br><b>Phrase: </b><i>C'est un contact important.</i>",
+                "un profil (d'utilisateur)": "<b>Meaning</b>: a (user) profile<br><b>Phrase: </b><i>J'ai un profil sur ce réseau social.</i>",
+                "un réseau social": "<b>Meaning</b>: a social network<br><b>Phrase: </b><i>J'utilise ce réseau social.</i>",
+                "un site Internet": "<b>Meaning</b>: a website<br><b>Phrase: </b><i>C'est un site Internet utile.</i>",
+                "une adresse mail": "<b>Meaning</b>: an email address<br><b>Phrase: </b><i>Quelle est votre adresse mail?</i>",
+                "une inscription": "<b>Meaning</b>: a registration<br><b>Phrase: </b><i>J'ai fait mon inscription.</i>"
+            },
+            "la semaine": {
+                "dimanche": "<b>Meaning</b>: Sunday<br><b>Phrase: </b><i>Dimanche, c'est le week-end.</i>",
+                "jeudi": "<b>Meaning</b>: Thursday<br><b>Phrase: </b><i>Jeudi, je vais au cinéma.</i>",
+                "lundi": "<b>Meaning</b>: Monday<br><b>Phrase: </b><i>Lundi est le premier jour de la semaine.</i>",
+                "mardi": "<b>Meaning</b>: Tuesday<br><b>Phrase: </b><i>Mardi, j'ai cours de français.</i>",
+                "mercredi": "<b>Meaning</b>: Wednesday<br><b>Phrase: </b><i>Mercredi, c'est le milieu de la semaine.</i>",
+                "samedi": "<b>Meaning</b>: Saturday<br><b>Phrase: </b><i>Samedi, je me repose.</i>",
+                "vendredi": "<b>Meaning</b>: Friday<br><b>Phrase: </b><i>Vendredi, c'est la fin de la semaine de travail.</i>"
+            },
+            "Les études": {
+                "apprendre/pratiquer une langue": "<b>Meaning</b>: to learn/practice a language<br><b>Phrase: </b><i>J'apprends le français. / Je pratique mon anglais.</i>",
+                "avoir cours": "<b>Meaning</b>: to have class<br><b>Phrase: </b><i>J'ai cours à 10h00.</i>",
+                "étudier": "<b>Meaning</b>: to study<br><b>Phrase: </b><i>J'étudie pour l'examen.</i>",
+                "l'architecture (f.)": "<b>Meaning</b>: architecture<br><b>Phrase: </b><i>J'étudie l'architecture.</i>",
+                "l'économie (f.)": "<b>Meaning</b>: economics<br><b>Phrase: </b><i>Elle étudie l'économie.</i>",
+                "la littérature": "<b>Meaning</b>: literature<br><b>Phrase: </b><i>J'aime la littérature.</i>",
+                "la médecine": "<b>Meaning</b>: medicine<br><b>Phrase: </b><i>Il étudie la médecine.</i>",
+                "le commerce international": "<b>Meaning</b>: international business<br><b>Phrase: </b><i>Il travaille dans le commerce international.</i>",
+                "les sciences politiques (f.)": "<b>Meaning</b>: political science<br><b>Phrase: </b><i>Elle étudie les sciences politiques.</i>",
+                "une école": "<b>Meaning</b>: a school<br><b>Phrase: </b><i>Je vais à l'école.</i>",
+                "une matière": "<b>Meaning</b>: a subject/topic<br><b>Phrase: </b><i>Quelle matière étudies-tu?</i>",
+                "une spécialité": "<b>Meaning</b>: a major/specialty<br><b>Phrase: </b><i>Quelle est ta spécialité?</i>"
+            },
+            "Les informations personnelles": {
+                "être bilingue": "<b>Meaning</b>: to be bilingual<br><b>Phrase: </b><i>Je suis bilingue.</i>",
+                "l'âge (m.)": "<b>Meaning</b>: age<br><b>Phrase: </b><i>J'ai 20 ans.</i>",
+                "un trombinoscope": "<b>Meaning</b>: a photo directory<br><b>Phrase: </b><i>Voici un trombinoscope.</i>"
+            },
+            "Les lieux": {
+                "un couloir": "<b>Meaning</b>: a hallway<br><b>Phrase: </b><i>Le bureau est au bout du couloir.</i>",
+                "un escalier": "<b>Meaning</b>: a staircase<br><b>Phrase: </b><i>Utilisez l'escalier pour monter.</i>",
+                "une cafétéria": "<b>Meaning</b>: a cafeteria<br><b>Phrase: </b><i>On mange à la cafétéria.</i>",
+                "une université": "<b>Meaning</b>: a university<br><b>Phrase: </b><i>J'étudie à l'université.</i>"
+            },
+            "Les moments": {
+                "l'après-midi (m. et f.)": "<b>Meaning</b>: the afternoon<br><b>Phrase: </b><i>Je travaille l'après-midi.</i>",
+                "le jour ≠ la nuit": "<b>Meaning</b>: the day ≠ the night<br><b>Phrase: </b><i>Il fait jour. / Il fait nuit.</i>",
+                "le matin": "<b>Meaning</b>: the morning<br><b>Phrase: </b><i>Je me lève le matin.</i>",
+                "le soir": "<b>Meaning</b>: the evening<br><b>Phrase: </b><i>Je dîne le soir.</i>"
+            },
+            "Les personnes": {
+                "des jeunes gens (m.)": "<b>Meaning</b>: young people<br><b>Phrase: </b><i>Ce sont des jeunes gens.</i>",
+                "madame": "<b>Meaning</b>: madam/ma'am<br><b>Phrase: </b><i>Bonjour, madame.</i>",
+                "mademoiselle": "<b>Meaning</b>: miss/young lady<br><b>Phrase: </b><i>Comment allez-vous, mademoiselle?</i>",
+                "monsieur": "<b>Meaning</b>: mister/sir<br><b>Phrase: </b><i>Au revoir, monsieur.</i>",
+                "un garçon": "<b>Meaning</b>: a boy<br><b>Phrase: </b><i>Il est un garçon.</i>",
+                "un jeune homme": "<b>Meaning</b>: a young man<br><b>Phrase: </b><i>C'est un jeune homme.</i>",
+                "un monsieur": "<b>Meaning</b>: a gentleman/sir<br><b>Phrase: </b><i>Bonjour, monsieur.</i>",
+                "une dame": "<b>Meaning</b>: a lady<br><b>Phrase: </b><i>C'est une dame.</i>",
+                "une fille": "<b>Meaning</b>: a girl<br><b>Phrase: </b><i>Elle est une fille.</i>",
+                "une jeune femme": "<b>Meaning</b>: a young woman<br><b>Phrase: </b><i>Elle est une jeune femme.</i>",
+                "une jeune fille": "<b>Meaning</b>: a young girl<br><b>Phrase: </b><i>Voici une jeune fille.</i>",
+                "une relation formelle (professionnelle)": "<b>Meaning</b>: a formal (professional) relationship<br><b>Phrase: </b><i>C'est une relation formelle.</i>",
+                "une relation informelle (amicale)": "<b>Meaning</b>: an informal (friendly) relationship<br><b>Phrase: </b><i>Ils ont une relation informelle.</i>"
+            }
+        },
+        "Leçon 2": {
+            "Communiquer": {
+                "demander une information": "<b>Meaning</b>: to ask for information<br><b>Phrase: </b><i>Je voudrais demander une information.</i>",
+                "poser des questions": "<b>Meaning</b>: to ask questions<br><b>Phrase: </b><i>Je vais poser des questions.</i>",
+                "répondre": "<b>Meaning</b>: to answer<br><b>Phrase: </b><i>Je vais répondre.</i>"
+            },
+            "Demander/Dire le prix": {
+                "c'est gratuit": "<b>Meaning</b>: it's free<br><b>Phrase: </b><i>C'est gratuit.</i>",
+                "ça coûte ... euros": "<b>Meaning</b>: it costs ... euros<br><b>Phrase: </b><i>Ça coûte 10 euros.</i>",
+                "combien": "<b>Meaning</b>: how much<br><b>Phrase: </b><i>Combien coûte ce livre?</i>"
+            },
+            "Faire une inscription": {
+                "compléter un formulaire": "<b>Meaning</b>: to fill out a form<br><b>Phrase: </b><i>Complétez le formulaire.</i>",
+                "présenter une pièce d'identité": "<b>Meaning</b>: to present an ID<br><b>Phrase: </b><i>Présentez une pièce d'identité.</i>",
+                "un passeport": "<b>Meaning</b>: a passport<br><b>Phrase: </b><i>J'ai besoin de mon passeport.</i>",
+                "une carte d'étudiant": "<b>Meaning</b>: a student card<br><b>Phrase: </b><i>Voici ma carte d'étudiant.</i>",
+                "une carte d'identité": "<b>Meaning</b>: an identity card<br><b>Phrase: </b><i>Montrez votre carte d'identité.</i>",
+                "une photo": "<b>Meaning</b>: a photo<br><b>Phrase: </b><i>Voici une photo.</i>"
+            },
+            "Les informations personnelles": {
+                "l'adresse (f.)": "<b>Meaning</b>: the address<br><b>Phrase: </b><i>J'habite...</i>",
+                "l'anniversaire (m.)": "<b>Meaning</b>: the birthday<br><b>Phrase: </b><i>C'est mon anniversaire.</i>",
+                "la carte de visite": "<b>Meaning</b>: the business card<br><b>Phrase: </b><i>Voici ma carte de visite.</i>",
+                "la date de naissance": "<b>Meaning</b>: the date of birth<br><b>Phrase: </b><i>Quelle est votre date de naissance?</i>",
+                "le numéro de téléphone": "<b>Meaning</b>: the phone number<br><b>Phrase: </b><i>Quel est votre numéro de téléphone?</i>",
+                "les coordonnées (f.)": "<b>Meaning</b>: the contact details<br><b>Phrase: </b><i>Voici mes coordonnées.</i>"
+            },
+            "Les lieux": {
+                "un bureau": "<b>Meaning</b>: an office<br><b>Phrase: </b><i>Je travaille dans un bureau.</i>",
+                "un magasin": "<b>Meaning</b>: a store<br><b>Phrase: </b><i>Je vais au magasin.</i>",
+                "une médiathèque": "<b>Meaning</b>: a media library<br><b>Phrase: </b><i>J'étudie à la médiathèque.</i>"
+            },
+            "Les moments": {
+                "l'année (f.)": "<b>Meaning</b>: the year<br><b>Phrase: </b><i>C'est une nouvelle année.</i>",
+                "les mois (m.)": {
+                    "août": "<b>Meaning</b>: August<br><b>Phrase: </b><i>Août est le huitième mois.</i>",
+                    "avril": "<b>Meaning</b>: April<br><b>Phrase: </b><i>Avril vient après mars.</i>",
+                    "décembre": "<b>Meaning</b>: December<br><b>Phrase: </b><i>Décembre est le dernier mois de l'année.</i>",
+                    "février": "<b>Meaning</b>: February<br><b>Phrase: </b><i>Février est le deuxième mois.</i>",
+                    "janvier": "<b>Meaning</b>: January<br><b>Phrase: </b><i>Janvier est le premier mois de l'année.</i>",
+                    "juillet": "<b>Meaning</b>: July<br><b>Phrase: </b><i>Juillet est en été.</i>",
+                    "juin": "<b>Meaning</b>: June<br><b>Phrase: </b><i>Juin est le sixième mois.</i>",
+                    "mai": "<b>Meaning</b>: May<br><b>Phrase: </b><i>Mai est au printemps.</i>",
+                    "mars": "<b>Meaning</b>: March<br><b>Phrase: </b><i>Mars est le troisième mois.</i>",
+                    "novembre": "<b>Meaning</b>: November<br><b>Phrase: </b><i>Novembre est le onzième mois.</i>",
+                    "octobre": "<b>Meaning</b>: October<br><b>Phrase: </b><i>Octobre est en automne.</i>",
+                    "septembre": "<b>Meaning</b>: September<br><b>Phrase: </b><i>Septembre est le neuvième mois.</i>"
+                }
+            },
+            "Les personnes": {
+                "un(e) employé(e)": "<b>Meaning</b>: an employee<br><b>Phrase: </b><i>Il est un employé. / Elle est une employée.</i>",
+                "un(e) étudiant(e)": "<b>Meaning</b>: a student<br><b>Phrase: </b><i>Il est un étudiant. / Elle est une étudiante.</i>"
+            },
+            "Signes et ponctuation": {
+                "les deux points (m.)": "<b>Meaning</b>: a colon (:)<br><b>Phrase: </b><i>Utilisez les deux points.</i>",
+                "un arobase": "<b>Meaning</b>: an at symbol (@)<br><b>Phrase: </b><i>Mon adresse mail contient un arobase.</i>",
+                "un point": "<b>Meaning</b>: a period (.)<br><b>Phrase: </b><i>Fin de la phrase.</i>",
+                "un point d'exclamation": "<b>Meaning</b>: an exclamation point (!)<br><b>Phrase: </b><i>Quelle surprise!</i>",
+                "un point d'interrogation": "<b>Meaning</b>: a question mark (?)<br><b>Phrase: </b><i>Quelle heure est-il?</i>",
+                "un point-virgule": "<b>Meaning</b>: a semicolon (;)<br><b>Phrase: </b><i>Utilisez un point-virgule.</i>",
+                "un slash": "<b>Meaning</b>: a slash (/)<br><b>Phrase: </b><i>Utilisez un slash.</i>",
+                "un tiret": "<b>Meaning</b>: a dash (-)<br><b>Phrase: </b><i>C'est un tiret.</i>",
+                "un tiret bas": "<b>Meaning</b>: an underscore (_)<br><b>Phrase: </b><i>Utilisez un tiret bas.</i>",
+                "une parenthèse": "<b>Meaning</b>: a parenthesis ( )<br><b>Phrase: </b><i>Mettez cela entre parenthèses.</i>",
+                "une virsgule": "<b>Meaning</b>: a comma (,)<br><b>Phrase: </b><i>Utilisez une virgule.</i>"
+            }
+        },
+        "Leçon 3": {
+            "Les actions": {
+                "visiter (un musée)": "<b>Meaning</b>: to visit (a museum)<br><b>Phrase: </b><i>Je visite un musée.</i>",
+                "vivre (dans une ville/un pays)": "<b>Meaning</b>: to live (in a city/a country)<br><b>Phrase: </b><i>Je vis à Paris. / Je vis en France.</i>",
+                "voir (le feu d'artifice)": "<b>Meaning</b>: to see (the fireworks)<br><b>Phrase: </b><i>Je vais voir le feu d'artifice.</i>"
+            },
+            "Les passions et les rêves": {
+                "adorer (le cyclisme; la musique...)": "<b>Meaning</b>: to love (cycling; music...)<br><b>Phrase: </b><i>J'adore le cyclisme. / J'adore la musique.</i>",
+                "réaliser un rêve": "<b>Meaning</b>: to realize a dream<br><b>Phrase: </b><i>Je veux réaliser un rêve.</i>",
+                "rêver de (voir; aller...)": "<b>Meaning</b>: to dream of (seeing; going...)<br><b>Phrase: </b><i>Je rêve de voir le monde. / Je rêve d'aller en Italie.</i>"
+            },
+            "Participer à un concours": {
+                "gagner": "<b>Meaning</b>: to win<br><b>Phrase: </b><i>Je veux gagner le prix.</i>",
+                "un bulletin de participation": "<b>Meaning</b>: an entry form<br><b>Phrase: </b><i>Remplissez le bulletin de participation.</i>",
+                "un jeu-concours": "<b>Meaning</b>: a contest<br><b>Phrase: </b><i>Je participe à un jeu-concours.</i>",
+                "un tirage au sort": "<b>Meaning</b>: a draw<br><b>Phrase: </b><i>Le gagnant sera choisi par tirage au sort.</i>",
+                "une annonce": "<b>Meaning</b>: an announcement<br><b>Phrase: </b><i>J'ai vu une annonce.</i>"
+            }
+        }
+    }
+}
