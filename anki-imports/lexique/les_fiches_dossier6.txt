@@ -1,0 +1,124 @@
+#separator:|
+#html:true
+le printemps|<b>Meaning</b>: Spring<br><b>Phrase: </b><i>Les fleurs s'épanouissent au printemps.</i>|dossier-6 les-saisons dossier-6-leçon-1
+l'été (m.)|<b>Meaning</b>: Summer<br><b>Phrase: </b><i>Il fait chaud en été.</i>|dossier-6 les-saisons dossier-6-leçon-1
+l'automne (m.)|<b>Meaning</b>: Autumn<br><b>Phrase: </b><i>Les feuilles tombent en automne.</i>|dossier-6 les-saisons dossier-6-leçon-1
+l'hiver (m.)|<b>Meaning</b>: Winter<br><b>Phrase: </b><i>Il neige en hiver.</i>|dossier-6 les-saisons dossier-6-leçon-1
+les cinq sens|<b>Meaning</b>: the five senses<br><b>Phrase: </b><i>Nous avons cinq sens.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+la vue|<b>Meaning</b>: sight<br><b>Phrase: </b><i>La vue est un sens important.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+regarder|<b>Meaning</b>: to look at<br><b>Phrase: </b><i>Je regarde le paysage.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+voir (un paysage, une lumière)|<b>Meaning</b>: to see (a landscape, a light)<br><b>Phrase: </b><i>Je vois un beau paysage.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+l'ouïe (f.)|<b>Meaning</b>: hearing<br><b>Phrase: </b><i>L'ouïe nous permet d'entendre.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+entendre|<b>Meaning</b>: to hear<br><b>Phrase: </b><i>J'entends un bruit.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+écouter (un son, un bruit, une voix)|<b>Meaning</b>: to listen (to a sound, a noise, a voice)<br><b>Phrase: </b><i>J'écoute de la musique.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+l'odorat (m.)|<b>Meaning</b>: smell<br><b>Phrase: </b><i>L'odorat nous permet de sentir les odeurs.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+sentir (une odeur, un parfum)|<b>Meaning</b>: to smell (an odor, a perfume)<br><b>Phrase: </b><i>Je sens une bonne odeur.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+le toucher|<b>Meaning</b>: touch<br><b>Phrase: </b><i>Le toucher est un sens.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+sentir (le froid sur les mains)|<b>Meaning</b>: Feel the cold on one's hands.<br><b>Phrase: </b><i>Je sens mes mains froides</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+le goût|<b>Meaning</b>: taste<br><b>Phrase: </b><i>Le goût nous permet de savourer.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+goûter (un fruit)|<b>Meaning</b>: to taste (a fruit)<br><b>Phrase: </b><i>Je goûte une pomme.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+avoir chaud ↑ froid|<b>Meaning</b>: to be hot ↑ cold<br><b>Phrase: </b><i>J'ai chaud en été, j'ai froid en hiver.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+avoir faim|<b>Meaning</b>: to be hungry<br><b>Phrase: </b><i>J'ai faim, je veux manger.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+avoir sommeil|<b>Meaning</b>: to be sleepy<br><b>Phrase: </b><i>J'ai sommeil, je vais dormir.</i>|dossier-6 les-sensations-et-perceptions dossier-6-leçon-1
+une couleur claire ↑ foncée|<b>Meaning</b>: a light ↑ dark color<br><b>Phrase: </b><i>Le ciel est d'une couleur claire.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+une couleur vive ↑ sombre|<b>Meaning</b>: a bright ↑ somber color<br><b>Phrase: </b><i>Elle porte une robe de couleur vive.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+des nuances (f.) de couleur|<b>Meaning</b>: shades of color<br><b>Phrase: </b><i>Il y a beaucoup de nuances de bleu.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+beige|<b>Meaning</b>: beige<br><b>Phrase: </b><i>Le mur est beige.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+blanc|<b>Meaning</b>: white<br><b>Phrase: </b><i>La neige est blanche.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+bleu|<b>Meaning</b>: blue<br><b>Phrase: </b><i>Le ciel est bleu.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+gris|<b>Meaning</b>: gray<br><b>Phrase: </b><i>Le ciel est gris aujourd'hui.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+jaune|<b>Meaning</b>: yellow<br><b>Phrase: </b><i>Le soleil est jaune.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+marron|<b>Meaning</b>: brown<br><b>Phrase: </b><i>Le chocolat est marron.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+noir|<b>Meaning</b>: black<br><b>Phrase: </b><i>La nuit est noire.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+orange|<b>Meaning</b>: orange<br><b>Phrase: </b><i>L'orange est orange.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+rouge|<b>Meaning</b>: red<br><b>Phrase: </b><i>Le feu est rouge.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+vert|<b>Meaning</b>: green<br><b>Phrase: </b><i>L'herbe est verte.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+violet|<b>Meaning</b>: purple<br><b>Phrase: </b><i>La violette est une fleur violette.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+doré|<b>Meaning</b>: golden<br><b>Phrase: </b><i>Le soleil couchant est doré.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+multicolore|<b>Meaning</b>: multicolored<br><b>Phrase: </b><i>L'arc-en-ciel est multicolore.</i>|dossier-6 les-couleurs-et-nuances dossier-6-leçon-1
+le bonheur|<b>Meaning</b>: happiness<br><b>Phrase: </b><i>Le bonheur est un sentiment agréable.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+être heureux(euse)|<b>Meaning</b>: to be happy<br><b>Phrase: </b><i>Je suis heureux(euse).</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+la joie|<b>Meaning</b>: joy<br><b>Phrase: </b><i>La joie est une émotion positive.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+être joyeux(euse)|<b>Meaning</b>: to be joyful<br><b>Phrase: </b><i>Il est joyeux.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+le malheur|<b>Meaning</b>: unhappiness<br><b>Phrase: </b><i>Le malheur est un sentiment triste.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+être malheureux(euse)|<b>Meaning</b>: to be unhappy<br><b>Phrase: </b><i>Elle est malheureuse.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+la tristesse|<b>Meaning</b>: sadness<br><b>Phrase: </b><i>La tristesse est une émotion négative.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+être triste|<b>Meaning</b>: to be sad<br><b>Phrase: </b><i>Je suis triste aujourd'hui.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+rire ↑ pleurer|<b>Meaning</b>: to laugh ↑ to cry<br><b>Phrase: </b><i>Les enfants aiment rire, mais parfois ils pleurent.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+sourire|<b>Meaning</b>: to smile<br><b>Phrase: </b><i>Elle sourit tout le temps.</i>|dossier-6 les-sentiments-et-émotions dossier-6-leçon-1
+une averse|<b>Meaning</b>: shower<br><b>Phrase: </b><i>Il y a eu une averse ce matin.</i>|dossier-6 le-climat dossier-6-leçon-1
+le brouillard|<b>Meaning</b>: fog<br><b>Phrase: </b><i>Le brouillard est épais ce matin.</i>|dossier-6 le-climat dossier-6-leçon-1
+la canicule|<b>Meaning</b>: heatwave<br><b>Phrase: </b><i>Il fait très chaud pendant la canicule.</i>|dossier-6 le-climat dossier-6-leçon-1
+le gel|<b>Meaning</b>: frost<br><b>Phrase: </b><i>Il y a du gel sur les routes.</i>|dossier-6 le-climat dossier-6-leçon-1
+geler|<b>Meaning</b>: to freeze<br><b>Phrase: </b><i>L'eau gèle à 0°C.</i>|dossier-6 le-climat dossier-6-leçon-1
+la neige|<b>Meaning</b>: snow<br><b>Phrase: </b><i>La neige tombe en hiver.</i>|dossier-6 le-climat dossier-6-leçon-1
+neiger|<b>Meaning</b>: to snow<br><b>Phrase: </b><i>Il neige aujourd'hui.</i>|dossier-6 le-climat dossier-6-leçon-1
+les nuages (m.)|<b>Meaning</b>: clouds<br><b>Phrase: </b><i>Il y a beaucoup de nuages dans le ciel.</i>|dossier-6 le-climat dossier-6-leçon-1
+un orage|<b>Meaning</b>: thunderstorm<br><b>Phrase: </b><i>Un orage a éclaté hier soir.</i>|dossier-6 le-climat dossier-6-leçon-1
+la pluie|<b>Meaning</b>: rain<br><b>Phrase: </b><i>La pluie tombe doucement.</i>|dossier-6 le-climat dossier-6-leçon-1
+pleuvoir (il pleut.)|<b>Meaning</b>: to rain (it's raining)<br><b>Phrase: </b><i>Il pleut beaucoup en automne.</i>|dossier-6 le-climat dossier-6-leçon-1
+le soleil|<b>Meaning</b>: sun<br><b>Phrase: </b><i>Le soleil brille aujourd'hui.</i>|dossier-6 le-climat dossier-6-leçon-1
+la température|<b>Meaning</b>: temperature<br><b>Phrase: </b><i>La température est agréable aujourd'hui.</i>|dossier-6 le-climat dossier-6-leçon-1
+le vent|<b>Meaning</b>: wind<br><b>Phrase: </b><i>Le vent souffle fort aujourd'hui.</i>|dossier-6 le-climat dossier-6-leçon-1
+couvert|<b>Meaning</b>: overcast<br><b>Phrase: </b><i>Le ciel est couvert aujourd'hui.</i>|dossier-6 le-climat dossier-6-leçon-1
+dégagé|<b>Meaning</b>: clear<br><b>Phrase: </b><i>Le ciel est dégagé ce soir.</i>|dossier-6 le-climat dossier-6-leçon-1
+doux|<b>Meaning</b>: mild<br><b>Phrase: </b><i>Le temps est doux aujourd'hui.</i>|dossier-6 le-climat dossier-6-leçon-1
+frais|<b>Meaning</b>: cool<br><b>Phrase: </b><i>Il fait frais ce matin.</i>|dossier-6 le-climat dossier-6-leçon-1
+monter ↑ chuter (les températures)|<b>Meaning</b>: to rise ↑ to fall (temperatures)<br><b>Phrase: </b><i>Les températures montent en été et chutent en hiver.</i>|dossier-6 le-climat dossier-6-leçon-1
+se rafraîchir|<b>Meaning</b>: to cool down<br><b>Phrase: </b><i>Il fait chaud, je vais me rafraîchir.</i>|dossier-6 le-climat dossier-6-leçon-1
+varier|<b>Meaning</b>: to vary<br><b>Phrase: </b><i>Les températures varient beaucoup en automne.</i>|dossier-6 le-climat dossier-6-leçon-1
+une interview|<b>Meaning</b>: An interview.<br><b>Phrase: </b><i>J'ai une interview avec elle.</i>|dossier-6 les-écrits-et-images dossier-6-leçon-1
+une rubrique (dans un magazine)|<b>Meaning</b>: Section, heading (part of magazine).<br><b>Phrase: </b><i>C'est ma rubrique préférée dans le magazine.</i>|dossier-6 les-écrits-et-images dossier-6-leçon-1
+la France métropolitaine|<b>Meaning</b>: metropolitan France<br><b>Phrase: </b><i>La France métropolitaine est située en Europe.</i>|dossier-6 la-france dossier-6-leçon-2
+l'Hexagone (m.)|<b>Meaning</b>: the Hexagon (nickname for France)<br><b>Phrase: </b><i>La France est souvent appelée l'Hexagone.</i>|dossier-6 la-france dossier-6-leçon-2
+la métropole|<b>Meaning</b>: the mainland<br><b>Phrase: </b><i>La métropole est la partie principale de la France.</i>|dossier-6 la-france dossier-6-leçon-2
+l'outre-mer (m.)|<b>Meaning</b>: overseas<br><b>Phrase: </b><i>La France a des territoires d'outre-mer.</i>|dossier-6 la-france dossier-6-leçon-2
+un territoire d'outre-mer|<b>Meaning</b>: an overseas territory<br><b>Phrase: </b><i>La Guadeloupe est un territoire d'outre-mer.</i>|dossier-6 la-france dossier-6-leçon-2
+une collectivité|<b>Meaning</b>: a community/collectivity<br><b>Phrase: </b><i>La collectivité locale gère les affaires de la ville.</i>|dossier-6 la-france dossier-6-leçon-2
+la langue officielle|<b>Meaning</b>: the official language<br><b>Phrase: </b><i>Le français est la langue officielle de la France.</i>|dossier-6 la-france dossier-6-leçon-2
+le créole|<b>Meaning</b>: Creole<br><b>Phrase: </b><i>Le créole est parlé dans certaines régions d'outre-mer.</i>|dossier-6 la-france dossier-6-leçon-2
+un archipel|<b>Meaning</b>: an archipelago<br><b>Phrase: </b><i>La Guadeloupe est un archipel.</i>|dossier-6 les-lieux dossier-6-leçon-2
+une île|<b>Meaning</b>: an island<br><b>Phrase: </b><i>La Corse est une île.</i>|dossier-6 les-lieux dossier-6-leçon-2
+un océan|<b>Meaning</b>: an ocean<br><b>Phrase: </b><i>L'océan Atlantique est vaste.</i>|dossier-6 les-lieux dossier-6-leçon-2
+un volcan|<b>Meaning</b>: a volcano<br><b>Phrase: </b><i>La Réunion a un volcan actif.</i>|dossier-6 les-lieux dossier-6-leçon-2
+les points cardinaux|<b>Meaning</b>: the cardinal points<br><b>Phrase: </b><i>Les points cardinaux sont le nord, le sud, l'est et l'ouest.</i>|dossier-6 situer-un-lieu dossier-6-leçon-2
+le nord|<b>Meaning</b>: the north<br><b>Phrase: </b><i>Le nord est une direction.</i>|dossier-6 situer-un-lieu dossier-6-leçon-2
+le sud|<b>Meaning</b>: the south<br><b>Phrase: </b><i>Le sud est opposé au nord.</i>|dossier-6 situer-un-lieu dossier-6-leçon-2
+l'est (m.)|<b>Meaning</b>: the east<br><b>Phrase: </b><i>Le soleil se lève à l'est.</i>|dossier-6 situer-un-lieu dossier-6-leçon-2
+l'ouest (m.)|<b>Meaning</b>: the west<br><b>Phrase: </b><i>Le soleil se couche à l'ouest.</i>|dossier-6 situer-un-lieu dossier-6-leçon-2
+être situé|<b>Meaning</b>: to be located<br><b>Phrase: </b><i>Paris est situé en France.</i>|dossier-6 situer-un-lieu dossier-6-leçon-2
+se trouver|<b>Meaning</b>: to be located<br><b>Phrase: </b><i>La Tour Eiffel se trouve à Paris.</i>|dossier-6 situer-un-lieu dossier-6-leçon-2
+aquatique|<b>Meaning</b>: aquatic<br><b>Phrase: </b><i>Les sports aquatiques sont populaires en été.</i>|dossier-6 caractériser-un-lieu dossier-6-leçon-2
+contrasté(e)|<b>Meaning</b>: contrasted<br><b>Phrase: </b><i>Le paysage est contrasté.</i>|dossier-6 caractériser-un-lieu dossier-6-leçon-2
+exubérant(e)|<b>Meaning</b>: exuberant<br><b>Phrase: </b><i>La végétation est exubérante.</i>|dossier-6 caractériser-un-lieu dossier-6-leçon-2
+idéal(e)|<b>Meaning</b>: ideal<br><b>Phrase: </b><i>C'est un endroit idéal pour les vacances.</i>|dossier-6 caractériser-un-lieu dossier-6-leçon-2
+magnifique|<b>Meaning</b>: magnificent<br><b>Phrase: </b><i>Le paysage est magnifique.</i>|dossier-6 caractériser-un-lieu dossier-6-leçon-2
+montagneux(euse)|<b>Meaning</b>: mountainous<br><b>Phrase: </b><i>La région est montagneuse.</i>|dossier-6 caractériser-un-lieu dossier-6-leçon-2
+volcanique|<b>Meaning</b>: volcanic<br><b>Phrase: </b><i>L'île est d'origine volcanique.</i>|dossier-6 caractériser-un-lieu dossier-6-leçon-2
+offrir une grande diversité|<b>Meaning</b>: to offer a great diversity<br><b>Phrase: </b><i>La région offre une grande diversité de paysages.</i>|dossier-6 caractériser-un-lieu dossier-6-leçon-2
+un sport extrême|<b>Meaning</b>: an extreme sport<br><b>Phrase: </b><i>Le saut à l'élastique est un sport extrême.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+la randonnée (à pied, à cheval, en VTT)|<b>Meaning</b>: hiking (on foot, on horseback, by mountain bike)<br><b>Phrase: </b><i>J'aime faire de la randonnée en montagne.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+un(e) randonneur(euse)|<b>Meaning</b>: a hiker<br><b>Phrase: </b><i>Le randonneur marche sur le sentier.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+le surf|<b>Meaning</b>: surfing<br><b>Phrase: </b><i>Le surf est populaire en Australie.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+la voile|<b>Meaning</b>: sailing<br><b>Phrase: </b><i>La voile est un sport nautique.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+le ski nautique|<b>Meaning</b>: water skiing<br><b>Phrase: </b><i>Le ski nautique est un sport d'été.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+la plongée sous-marine|<b>Meaning</b>: scuba diving<br><b>Phrase: </b><i>J'aime faire de la plongée sous-marine.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+le canyoning|<b>Meaning</b>: canyoning<br><b>Phrase: </b><i>Le canyoning est un sport d'aventure.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+le kayak|<b>Meaning</b>: kayaking<br><b>Phrase: </b><i>Le kayak est un sport de plein air.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+choisir un itinéraire|<b>Meaning</b>: to choose a route<br><b>Phrase: </b><i>Il faut choisir un itinéraire avant de partir en randonnée.</i>|dossier-6 les-activités-et-loisirs dossier-6-leçon-2
+une brochure|<b>Meaning</b>: A brochure.<br><b>Phrase: </b><i>Donnez moi une brochure pour cette attraction.</i>|dossier-6 les-écrits-et-images dossier-6-leçon-2
+guide touristique|<b>Meaning</b>: A tourist guide.<br><b>Phrase: </b><i>J'ai acheté un guide touristique avant de partir en voyage.</i>|dossier-6 les-écrits-et-images dossier-6-leçon-2
+une spécialité|<b>Meaning</b>: a specialty<br><b>Phrase: </b><i>Les crêpes sont une spécialité bretonne.</i>|dossier-6 l'alimentation-et-les-boissons dossier-6-leçon-3
+les moules-frites (f.)|<b>Meaning</b>: mussels and fries<br><b>Phrase: </b><i>Les moules-frites sont un plat populaire en Belgique.</i>|dossier-6 l'alimentation-et-les-boissons dossier-6-leçon-3
+le chocolat (m.)|<b>Meaning</b>: chocolate<br><b>Phrase: </b><i>J'adore le chocolat.</i>|dossier-6 l'alimentation-et-les-boissons dossier-6-leçon-3
+la bière|<b>Meaning</b>: beer<br><b>Phrase: </b><i>Il boit une bière.</i>|dossier-6 l'alimentation-et-les-boissons dossier-6-leçon-3
+déguster|<b>Meaning</b>: to taste<br><b>Phrase: </b><i>Je déguste un bon vin.</i>|dossier-6 l'alimentation-et-les-boissons dossier-6-leçon-3
+admirer les façades|<b>Meaning</b>: to admire the facades<br><b>Phrase: </b><i>J'admire les façades des bâtiments anciens.</i>|dossier-6 découvrir-une-ville dossier-6-leçon-3
+aller voir en priorité/ne pas manquer un lieu|<b>Meaning</b>: to go see first/not to miss a place<br><b>Phrase: </b><i>Il faut aller voir la Tour Eiffel en priorité.</i>|dossier-6 découvrir-une-ville dossier-6-leçon-3
+chiner (dans une brocante)|<b>Meaning</b>: to hunt for bargains (in a flea market)<br><b>Phrase: </b><i>J'aime chiner dans les brocantes.</i>|dossier-6 découvrir-une-ville dossier-6-leçon-3
+faire des achats|<b>Meaning</b>: to go shopping<br><b>Phrase: </b><i>Je vais faire des achats en ville.</i>|dossier-6 découvrir-une-ville dossier-6-leçon-3
+faire un tour de la ville|<b>Meaning</b>: to take a tour of the city<br><b>Phrase: </b><i>Nous allons faire un tour de la ville en bus.</i>|dossier-6 découvrir-une-ville dossier-6-leçon-3
+louer des vélos|<b>Meaning</b>: to rent bikes<br><b>Phrase: </b><i>Nous allons louer des vélos pour explorer la ville.</i>|dossier-6 découvrir-une-ville dossier-6-leçon-3
+se promener|<b>Meaning</b>: to take a walk<br><b>Phrase: </b><i>J'aime me promener dans le parc.</i>|dossier-6 découvrir-une-ville dossier-6-leçon-3
+un objet rare/cher ↑ pas cher|<b>Meaning</b>: a rare/expensive ↑ inexpensive object<br><b>Phrase: </b><i>Cette montre est un objet rare et cher. Ce stylo n'est pas cher.</i>|dossier-6 caractériser dossier-6-leçon-3
+chaleureux(euse)|<b>Meaning</b>: warm<br><b>Phrase: </b><i>L'ambiance est chaleureuse.</i>|dossier-6 caractériser dossier-6-leçon-3
