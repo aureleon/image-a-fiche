@@ -1,97 +1,99 @@
-un hôpital|<b>Meaning</b>: a hospital<br><b>Phrase: </b><i>Il travaille à l'hôpital.</i>|dossier-2 autres dossier-2-leçon-1
-un pont|<b>Meaning</b>: a bridge<br><b>Phrase: </b><i>Je traverse le pont.</i>|dossier-2 autres dossier-2-leçon-1
-une cathédrale|<b>Meaning</b>: a cathedral<br><b>Phrase: </b><i>C'est une belle cathédrale.</i>|dossier-2 autres dossier-2-leçon-1
-une église|<b>Meaning</b>: a church<br><b>Phrase: </b><i>Je vais à l'église.</i>|dossier-2 autres dossier-2-leçon-1
-une école|<b>Meaning</b>: a school<br><b>Phrase: </b><i>Je vais à l'école.</i>|dossier-2 l'éducation-(f.) dossier-2-leçon-1
-une université|<b>Meaning</b>: a university<br><b>Phrase: </b><i>J'étudie à l'université.</i>|dossier-2 l'éducation-(f.) dossier-2-leçon-1
-un château|<b>Meaning</b>: a castle<br><b>Phrase: </b><i>C'est un beau château.</i>|dossier-2 la-culture,-l'art-(m.)-et-l'histoire-(f.) dossier-2-leçon-1
-un cinéma|<b>Meaning</b>: a cinema<br><b>Phrase: </b><i>Allons au cinéma.</i>|dossier-2 la-culture,-l'art-(m.)-et-l'histoire-(f.) dossier-2-leçon-1
-un musée|<b>Meaning</b>: a museum<br><b>Phrase: </b><i>Je visite un musée.</i>|dossier-2 la-culture,-l'art-(m.)-et-l'histoire-(f.) dossier-2-leçon-1
-un théâtre|<b>Meaning</b>: a theater<br><b>Phrase: </b><i>J'aime aller au théâtre.</i>|dossier-2 la-culture,-l'art-(m.)-et-l'histoire-(f.) dossier-2-leçon-1
-une bibliothèque|<b>Meaning</b>: a library<br><b>Phrase: </b><i>J'aime la bibliothèque.</i>|dossier-2 la-culture,-l'art-(m.)-et-l'histoire-(f.) dossier-2-leçon-1
-un jardin|<b>Meaning</b>: a garden<br><b>Phrase: </b><i>J'aime me promener dans le jardin.</i>|dossier-2 la-nature dossier-2-leçon-1
-un parc|<b>Meaning</b>: a park<br><b>Phrase: </b><i>Le parc est grand.</i>|dossier-2 la-nature dossier-2-leçon-1
-une rivière|<b>Meaning</b>: a river<br><b>Phrase: </b><i>La rivière coule.</i>|dossier-2 la-nature dossier-2-leçon-1
-l'hôtel de ville (m.) = la mairie|<b>Meaning</b>: the city hall<br><b>Phrase: </b><i>L'hôtel de ville est beau. / La mairie est ouverte.</i>|dossier-2 les-administrations-(f.) dossier-2-leçon-1
-la poste|<b>Meaning</b>: the post office<br><b>Phrase: </b><i>Je vais à la poste.</i>|dossier-2 les-administrations-(f.) dossier-2-leçon-1
-un marché|<b>Meaning</b>: a market<br><b>Phrase: </b><i>Je vais au marché.</i>|dossier-2 les-commerces-(m.)-et-la-vie-quotidienne dossier-2-leçon-1
-un restaurant|<b>Meaning</b>: a restaurant<br><b>Phrase: </b><i>On mange au restaurant.</i>|dossier-2 les-commerces-(m.)-et-la-vie-quotidienne dossier-2-leçon-1
-un supermarché|<b>Meaning</b>: a supermarket<br><b>Phrase: </b><i>Je fais les courses au supermarché.</i>|dossier-2 les-commerces-(m.)-et-la-vie-quotidienne dossier-2-leçon-1
-une boulangerie|<b>Meaning</b>: a bakery<br><b>Phrase: </b><i>J'achète du pain à la boulangerie.</i>|dossier-2 les-commerces-(m.)-et-la-vie-quotidienne dossier-2-leçon-1
-une pharmacie|<b>Meaning</b>: a pharmacy<br><b>Phrase: </b><i>J'achète des médicaments à la pharmacie.</i>|dossier-2 les-commerces-(m.)-et-la-vie-quotidienne dossier-2-leçon-1
-un dépliant|<b>Meaning</b>: a leaflet/brochure<br><b>Phrase: </b><i>Voici un dépliant touristique.</i>|dossier-2 les-écrits-et-images dossier-2-leçon-1
+#separator:|
+#html:true
+un lieu = un endroit|<b>Meaning</b>: a place<br><b>Phrase: </b><i>C'est un lieu agréable.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une rue|<b>Meaning</b>: a street<br><b>Phrase: </b><i>La rue est longue.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une ville|<b>Meaning</b>: a city<br><b>Phrase: </b><i>Paris est une grande ville.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une banlieue|<b>Meaning</b>: a suburb<br><b>Phrase: </b><i>J'habite dans une banlieue de Lyon.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un département|<b>Meaning</b>: a department (administrative division of France)<br><b>Phrase: </b><i>La France est divisée en départements.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une région|<b>Meaning</b>: a region<br><b>Phrase: </b><i>La Bretagne est une belle région.</i>|dossier-2 les-lieux dossier-2-leçon-1
+les administrations (f.)|<b>Meaning</b>: administrations, government offices<br><b>Phrase: </b><i>Les administrations sont ouvertes le matin.</i>|dossier-2 les-lieux dossier-2-leçon-1
+l'hôtel de ville (m.) = la mairie|<b>Meaning</b>: city hall<br><b>Phrase: </b><i>Le maire travaille à l'hôtel de ville.</i>|dossier-2 les-lieux dossier-2-leçon-1
+la poste|<b>Meaning</b>: the post office<br><b>Phrase: </b><i>Je vais à la poste pour envoyer une lettre.</i>|dossier-2 les-lieux dossier-2-leçon-1
+la culture, l'art (m.) et l'histoire (f.)|<b>Meaning</b>: culture, art and history<br><b>Phrase: </b><i>Paris est riche en culture et en histoire.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une bibliothèque|<b>Meaning</b>: a library<br><b>Phrase: </b><i>J'aime lire à la bibliothèque.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un château|<b>Meaning</b>: a castle<br><b>Phrase: </b><i>Il y a un vieux château ici.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un cinéma|<b>Meaning</b>: a cinema<br><b>Phrase: </b><i>Allons au cinéma ce soir.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un musée|<b>Meaning</b>: a museum<br><b>Phrase: </b><i>Le musée est fermé le lundi.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un théâtre|<b>Meaning</b>: a theater<br><b>Phrase: </b><i>Je vais au théâtre voir une pièce.</i>|dossier-2 les-lieux dossier-2-leçon-1
+les commerces (m.) et la vie quotidienne|<b>Meaning</b>: shops and daily life<br><b>Phrase: </b><i>Les commerces sont ouverts tous les jours sauf le dimanche.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une boulangerie|<b>Meaning</b>: a bakery<br><b>Phrase: </b><i>J'achète du pain à la boulangerie.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un marché|<b>Meaning</b>: a market<br><b>Phrase: </b><i>Le marché est ouvert le samedi matin.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une pharmacie|<b>Meaning</b>: a pharmacy<br><b>Phrase: </b><i>J'achète des médicaments à la pharmacie.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un restaurant|<b>Meaning</b>: a restaurant<br><b>Phrase: </b><i>On va au restaurant pour dîner.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un supermarché|<b>Meaning</b>: a supermarket<br><b>Phrase: </b><i>Je fais les courses au supermarché.</i>|dossier-2 les-lieux dossier-2-leçon-1
+la nature|<b>Meaning</b>: nature<br><b>Phrase: </b><i>J'aime la nature.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un jardin|<b>Meaning</b>: a garden<br><b>Phrase: </b><i>Les fleurs poussent dans le jardin.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un parc|<b>Meaning</b>: a park<br><b>Phrase: </b><i>Je me promène dans le parc.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une rivière|<b>Meaning</b>: a river<br><b>Phrase: </b><i>La rivière coule.</i>|dossier-2 les-lieux dossier-2-leçon-1
+l'éducation (f.)|<b>Meaning</b>: education<br><b>Phrase: </b><i>L'éducation est importante.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une école|<b>Meaning</b>: a school<br><b>Phrase: </b><i>Les enfants vont à l'école.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une université|<b>Meaning</b>: a university<br><b>Phrase: </b><i>J'étudie à l'université.</i>|dossier-2 les-lieux dossier-2-leçon-1
+autres|<b>Meaning</b>: others<br><b>Phrase: </b><i>Autres choses à voir ici.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une cathédrale|<b>Meaning</b>: a cathedral<br><b>Phrase: </b><i>La cathédrale est très belle.</i>|dossier-2 les-lieux dossier-2-leçon-1
+une église|<b>Meaning</b>: a church<br><b>Phrase: </b><i>L'église est ancienne.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un hôpital|<b>Meaning</b>: a hospital<br><b>Phrase: </b><i>Le médecin travaille à l'hôpital.</i>|dossier-2 les-lieux dossier-2-leçon-1
+un pont|<b>Meaning</b>: a bridge<br><b>Phrase: </b><i>Le pont traverse la rivière.</i>|dossier-2 les-lieux dossier-2-leçon-1
+à côté de|<b>Meaning</b>: next to<br><b>Phrase: </b><i>La banque est à côté de la poste.</i>|dossier-2 localiser dossier-2-leçon-1
+à gauche de ↑ à droite de|<b>Meaning</b>: to the left of ↑ to the right of<br><b>Phrase: </b><i>Le cinéma est à gauche de la banque.</i>|dossier-2 localiser dossier-2-leçon-1
+dans|<b>Meaning</b>: in<br><b>Phrase: </b><i>Je suis dans la maison.</i>|dossier-2 localiser dossier-2-leçon-1
+devant ↑ derrière|<b>Meaning</b>: in front of ↑ behind<br><b>Phrase: </b><i>Il est devant moi.</i>|dossier-2 localiser dossier-2-leçon-1
+en face de|<b>Meaning</b>: opposite<br><b>Phrase: </b><i>Le café est en face de la gare.</i>|dossier-2 localiser dossier-2-leçon-1
+ici|<b>Meaning</b>: here<br><b>Phrase: </b><i>Je suis ici.</i>|dossier-2 localiser dossier-2-leçon-1
+près de ↑ loin de|<b>Meaning</b>: near ↑ far from<br><b>Phrase: </b><i>La gare est près de chez moi.</i>|dossier-2 localiser dossier-2-leçon-1
+sur ↑ sous|<b>Meaning</b>: on ↑ under<br><b>Phrase: </b><i>Le livre est sur la table.</i>|dossier-2 localiser dossier-2-leçon-1
+une affiche|<b>Meaning</b>: a poster<br><b>Phrase: </b><i>Il y a une affiche sur le mur.</i>|dossier-2 les-écrits-et-images dossier-2-leçon-1
+un dépliant|<b>Meaning</b>: a leaflet<br><b>Phrase: </b><i>J'ai pris un dépliant.</i>|dossier-2 les-écrits-et-images dossier-2-leçon-1
 un forum Internet|<b>Meaning</b>: an internet forum<br><b>Phrase: </b><i>Je participe à un forum Internet.</i>|dossier-2 les-écrits-et-images dossier-2-leçon-1
 un magazine|<b>Meaning</b>: a magazine<br><b>Phrase: </b><i>J'aime lire des magazines.</i>|dossier-2 les-écrits-et-images dossier-2-leçon-1
-une affiche|<b>Meaning</b>: a poster<br><b>Phrase: </b><i>Il y a une affiche sur le mur.</i>|dossier-2 les-écrits-et-images dossier-2-leçon-1
-un département|<b>Meaning</b>: a department (administrative region in France)<br><b>Phrase: </b><i>Quel département?</i>|dossier-2 les-lieux dossier-2-leçon-1
-un lieu = un endroit|<b>Meaning</b>: a place<br><b>Phrase: </b><i>C'est un beau lieu. / C'est un bel endroit.</i>|dossier-2 les-lieux dossier-2-leçon-1
-une banlieue|<b>Meaning</b>: a suburb<br><b>Phrase: </b><i>J'habite en banlieue.</i>|dossier-2 les-lieux dossier-2-leçon-1
-une région|<b>Meaning</b>: a region<br><b>Phrase: </b><i>La France a plusieurs régions.</i>|dossier-2 les-lieux dossier-2-leçon-1
-une rue|<b>Meaning</b>: a street<br><b>Phrase: </b><i>J'habite dans cette rue.</i>|dossier-2 les-lieux dossier-2-leçon-1
-une ville|<b>Meaning</b>: a city<br><b>Phrase: </b><i>Paris est une grande ville.</i>|dossier-2 les-lieux dossier-2-leçon-1
-à côté de|<b>Meaning</b>: next to<br><b>Phrase: </b><i>La banque est à côté de la poste.</i>|dossier-2 localiser dossier-2-leçon-1
-à droite de|<b>Meaning</b>: to the right of<br><b>Phrase: </b><i>Le restaurant est à droite du musée.</i>|dossier-2 localiser dossier-2-leçon-1
-à gauche de|<b>Meaning</b>: to the left of<br><b>Phrase: </b><i>Le cinéma est à gauche de l'école.</i>|dossier-2 localiser dossier-2-leçon-1
-dans|<b>Meaning</b>: in<br><b>Phrase: </b><i>Le livre est dans le sac.</i>|dossier-2 localiser dossier-2-leçon-1
-derrière|<b>Meaning</b>: behind<br><b>Phrase: </b><i>Le jardin est derrière la maison.</i>|dossier-2 localiser dossier-2-leçon-1
-devant|<b>Meaning</b>: in front of<br><b>Phrase: </b><i>La voiture est devant la maison.</i>|dossier-2 localiser dossier-2-leçon-1
-en face de|<b>Meaning</b>: opposite<br><b>Phrase: </b><i>La pharmacie est en face du supermarché.</i>|dossier-2 localiser dossier-2-leçon-1
-ici|<b>Meaning</b>: here<br><b>Phrase: </b><i>C'est ici.</i>|dossier-2 localiser dossier-2-leçon-1
-loin de|<b>Meaning</b>: far from<br><b>Phrase: </b><i>La plage est loin de la ville.</i>|dossier-2 localiser dossier-2-leçon-1
-près de|<b>Meaning</b>: near<br><b>Phrase: </b><i>La gare est près de l'hôtel.</i>|dossier-2 localiser dossier-2-leçon-1
-sous|<b>Meaning</b>: under<br><b>Phrase: </b><i>Le chat est sous la chaise.</i>|dossier-2 localiser dossier-2-leçon-1
-sur|<b>Meaning</b>: on<br><b>Phrase: </b><i>Le livre est sur la table.</i>|dossier-2 localiser dossier-2-leçon-1
-aller/continuer tout droit|<b>Meaning</b>: to go/continue straight ahead<br><b>Phrase: </b><i>Allez tout droit. / Continuez tout droit.</i>|dossier-2 demander/indiquer-un-itinéraire dossier-2-leçon-2
-aller/tourner à gauche, à droite|<b>Meaning</b>: to go/turn left, right<br><b>Phrase: </b><i>Tournez à gauche. / Tournez à droite.</i>|dossier-2 demander/indiquer-un-itinéraire dossier-2-leçon-2
-chercher|<b>Meaning</b>: to look for<br><b>Phrase: </b><i>Je cherche la rue...</i>|dossier-2 demander/indiquer-un-itinéraire dossier-2-leçon-2
-prendre (la rue...)|<b>Meaning</b>: to take (the street...)<br><b>Phrase: </b><i>Prenez la rue...</i>|dossier-2 demander/indiquer-un-itinéraire dossier-2-leçon-2
-se trouver|<b>Meaning</b>: to be located<br><b>Phrase: </b><i>Où se trouve la gare?</i>|dossier-2 demander/indiquer-un-itinéraire dossier-2-leçon-2
-traverser/descendre une rue|<b>Meaning</b>: to cross/go down a street<br><b>Phrase: </b><i>Traversez la rue. / Descendez la rue.</i>|dossier-2 demander/indiquer-un-itinéraire dossier-2-leçon-2
-le petit déjeuner (inclus)|<b>Meaning</b>: breakfast (included)<br><b>Phrase: </b><i>Le petit déjeuner est inclus.</i>|dossier-2 faire-une-réservation dossier-2-leçon-2
-le prix = le tarif|<b>Meaning</b>: the price = the rate<br><b>Phrase: </b><i>Quel est le prix? / Quel est le tarif?</i>|dossier-2 faire-une-réservation dossier-2-leçon-2
-les horaires d'ouverture (m.)|<b>Meaning</b>: the opening hours<br><b>Phrase: </b><i>Quels sont les horaires d'ouverture?</i>|dossier-2 faire-une-réservation dossier-2-leçon-2
-des toilettes (f.)|<b>Meaning</b>: a toilet/restroom<br><b>Phrase: </b><i>Où sont les toilettes?</i>|dossier-2 l'hébergement dossier-2-leçon-2
-un drap|<b>Meaning</b>: a sheet<br><b>Phrase: </b><i>Change les draps, s'il te plaît.</i>|dossier-2 l'hébergement dossier-2-leçon-2
-un hôtel (2, 3... étoiles)|<b>Meaning</b>: a hotel (2, 3... stars)<br><b>Phrase: </b><i>C'est un hôtel 3 étoiles.</i>|dossier-2 l'hébergement dossier-2-leçon-2
-un lavabo|<b>Meaning</b>: a sink<br><b>Phrase: </b><i>Je me lave les mains au lavabo.</i>|dossier-2 l'hébergement dossier-2-leçon-2
-un lit|<b>Meaning</b>: a bed<br><b>Phrase: </b><i>Je vais au lit.</i>|dossier-2 l'hébergement dossier-2-leçon-2
-une auberge de jeunesse|<b>Meaning</b>: a youth hostel<br><b>Phrase: </b><i>Je loge dans une auberge de jeunesse.</i>|dossier-2 l'hébergement dossier-2-leçon-2
-une chambre (simple/double)|<b>Meaning</b>: a room (single/double)<br><b>Phrase: </b><i>Je veux une chambre double. / Je veux une chambre simple.</i>|dossier-2 l'hébergement dossier-2-leçon-2
-une cuisine|<b>Meaning</b>: a kitchen<br><b>Phrase: </b><i>Je prépare le repas dans la cuisine.</i>|dossier-2 l'hébergement dossier-2-leçon-2
-une douche|<b>Meaning</b>: a shower<br><b>Phrase: </b><i>Je prends une douche.</i>|dossier-2 l'hébergement dossier-2-leçon-2
+une auberge de jeunesse|<b>Meaning</b>: a youth hostel<br><b>Phrase: </b><i>Je dors dans une auberge de jeunesse.</i>|dossier-2 l'hébergement dossier-2-leçon-2
+un hôtel (2, 3... étoiles)|<b>Meaning</b>: a hotel (2, 3... stars)<br><b>Phrase: </b><i>Nous restons dans un hôtel trois étoiles.</i>|dossier-2 l'hébergement dossier-2-leçon-2
+une chambre (simple/double)|<b>Meaning</b>: a room (single/double)<br><b>Phrase: </b><i>Je veux une chambre simple.</i>|dossier-2 l'hébergement dossier-2-leçon-2
 une salle de bains|<b>Meaning</b>: a bathroom<br><b>Phrase: </b><i>La chambre a une salle de bains.</i>|dossier-2 l'hébergement dossier-2-leçon-2
-aller à pied|<b>Meaning</b>: to go on foot/to walk<br><b>Phrase: </b><i>Je vais à pied.</i>|dossier-2 se-déplacer dossier-2-leçon-2
+une douche|<b>Meaning</b>: a shower<br><b>Phrase: </b><i>Je prends une douche.</i>|dossier-2 l'hébergement dossier-2-leçon-2
+des toilettes (f.)|<b>Meaning</b>: toilets<br><b>Phrase: </b><i>Où sont les toilettes?</i>|dossier-2 l'hébergement dossier-2-leçon-2
+une cuisine|<b>Meaning</b>: a kitchen<br><b>Phrase: </b><i>Je cuisine dans la cuisine.</i>|dossier-2 l'hébergement dossier-2-leçon-2
+un lavabo|<b>Meaning</b>: a sink<br><b>Phrase: </b><i>Je me lave les mains au lavabo.</i>|dossier-2 l'hébergement dossier-2-leçon-2
+un lit|<b>Meaning</b>: a bed<br><b>Phrase: </b><i>Je dors dans un lit.</i>|dossier-2 l'hébergement dossier-2-leçon-2
+un drap|<b>Meaning</b>: a sheet<br><b>Phrase: </b><i>Le lit a un drap.</i>|dossier-2 l'hébergement dossier-2-leçon-2
+les horaires d'ouverture (m.)|<b>Meaning</b>: opening hours<br><b>Phrase: </b><i>Quels sont les horaires d'ouverture?</i>|dossier-2 faire-une-réservation dossier-2-leçon-2
+le prix = le tarif|<b>Meaning</b>: price = rate<br><b>Phrase: </b><i>Quel est le prix?</i>|dossier-2 faire-une-réservation dossier-2-leçon-2
+le petit déjeuner (inclus)|<b>Meaning</b>: breakfast (included)<br><b>Phrase: </b><i>Le petit déjeuner est inclus.</i>|dossier-2 faire-une-réservation dossier-2-leçon-2
+aller à pied|<b>Meaning</b>: to go on foot<br><b>Phrase: </b><i>Je vais à pied.</i>|dossier-2 se-déplacer dossier-2-leçon-2
 prendre le train|<b>Meaning</b>: to take the train<br><b>Phrase: </b><i>Je prends le train.</i>|dossier-2 se-déplacer dossier-2-leçon-2
-content(e)|<b>Meaning</b>: happy<br><b>Phrase: </b><i>Je suis content. / Je suis contente.</i>|dossier-2 caractériser dossier-2-leçon-3
-extraordinaire|<b>Meaning</b>: extraordinary<br><b>Phrase: </b><i>C'est extraordinaire.</i>|dossier-2 caractériser dossier-2-leçon-3
-génial(e)|<b>Meaning</b>: great/awesome<br><b>Phrase: </b><i>C'est génial!</i>|dossier-2 caractériser dossier-2-leçon-3
-magnifique|<b>Meaning</b>: magnificent<br><b>Phrase: </b><i>C'est magnifique.</i>|dossier-2 caractériser dossier-2-leçon-3
-merveilleux(euse)|<b>Meaning</b>: wonderful<br><b>Phrase: </b><i>C'est merveilleux. / C'est merveilleuse.</i>|dossier-2 caractériser dossier-2-leçon-3
-moderne|<b>Meaning</b>: modern<br><b>Phrase: </b><i>C'est moderne.</i>|dossier-2 caractériser dossier-2-leçon-3
-super|<b>Meaning</b>: super<br><b>Phrase: </b><i>C'est super!</i>|dossier-2 caractériser dossier-2-leçon-3
-triste|<b>Meaning</b>: sad<br><b>Phrase: </b><i>Je suis triste.</i>|dossier-2 caractériser dossier-2-leçon-3
-un code postal|<b>Meaning</b>: a postal code/zip code<br><b>Phrase: </b><i>Quel est le code postal?</i>|dossier-2 la-correspondance dossier-2-leçon-3
-un timbre|<b>Meaning</b>: a stamp<br><b>Phrase: </b><i>Il faut un timbre.</i>|dossier-2 la-correspondance dossier-2-leçon-3
-un(e) destinataire|<b>Meaning</b>: a recipient<br><b>Phrase: </b><i>C'est le destinataire de la lettre.</i>|dossier-2 la-correspondance dossier-2-leçon-3
-un(e) expéditeur(trice)|<b>Meaning</b>: a sender<br><b>Phrase: </b><i>C'est l'expéditeur de la lettre.</i>|dossier-2 la-correspondance dossier-2-leçon-3
-un(e) facteur(trice)|<b>Meaning</b>: a mail carrier/mailman/mailwoman<br><b>Phrase: </b><i>Le facteur apporte le courrier.</i>|dossier-2 la-correspondance dossier-2-leçon-3
+demander/indiquer un itinéraire|<b>Meaning</b>: to ask for/indicate a route<br><b>Phrase: </b><i>Indiquez-moi un itinéraire.</i>|dossier-2 se-déplacer dossier-2-leçon-2
+aller/continuer tout droit|<b>Meaning</b>: to go/continue straight ahead<br><b>Phrase: </b><i>Allez tout droit.</i>|dossier-2 se-déplacer dossier-2-leçon-2
+aller/tourner à gauche; à droite|<b>Meaning</b>: to go/turn to the left; to the right<br><b>Phrase: </b><i>Tournez à gauche.</i>|dossier-2 se-déplacer dossier-2-leçon-2
+chercher|<b>Meaning</b>: to look for<br><b>Phrase: </b><i>Je cherche la gare.</i>|dossier-2 se-déplacer dossier-2-leçon-2
+prendre (la rue...)|<b>Meaning</b>: to take (the street...)<br><b>Phrase: </b><i>Prenez cette rue.</i>|dossier-2 se-déplacer dossier-2-leçon-2
+se trouver|<b>Meaning</b>: to be located<br><b>Phrase: </b><i>La poste se trouve ici.</i>|dossier-2 se-déplacer dossier-2-leçon-2
+traverser/descendre une rue|<b>Meaning</b>: to cross/go down a street<br><b>Phrase: </b><i>Traversez la rue.</i>|dossier-2 se-déplacer dossier-2-leçon-2
 une carte postale|<b>Meaning</b>: a postcard<br><b>Phrase: </b><i>J'envoie une carte postale.</i>|dossier-2 la-correspondance dossier-2-leçon-3
+un code postal|<b>Meaning</b>: a postal code<br><b>Phrase: </b><i>Quel est le code postal?</i>|dossier-2 la-correspondance dossier-2-leçon-3
+un(e) destinataire|<b>Meaning</b>: a recipient<br><b>Phrase: </b><i>Je suis le destinataire.</i>|dossier-2 la-correspondance dossier-2-leçon-3
+un(e) expéditeur(trice)|<b>Meaning</b>: a sender<br><b>Phrase: </b><i>Je suis l'expéditeur.</i>|dossier-2 la-correspondance dossier-2-leçon-3
+un(e) facteur(trice)|<b>Meaning</b>: a mail carrier<br><b>Phrase: </b><i>Le facteur arrive.</i>|dossier-2 la-correspondance dossier-2-leçon-3
 une lettre|<b>Meaning</b>: a letter<br><b>Phrase: </b><i>J'écris une lettre.</i>|dossier-2 la-correspondance dossier-2-leçon-3
-faire beau|<b>Meaning</b>: to be nice (weather)<br><b>Phrase: </b><i>Il fait beau.</i>|dossier-2 la-météo dossier-2-leçon-3
-faire chaud|<b>Meaning</b>: to be hot<br><b>Phrase: </b><i>Il fait chaud.</i>|dossier-2 la-météo dossier-2-leçon-3
-froid|<b>Meaning</b>: cold<br><b>Phrase: </b><i>Il fait froid.</i>|dossier-2 la-météo dossier-2-leçon-3
-la météo = le temps|<b>Meaning</b>: the weather<br><b>Phrase: </b><i>Quelle est la météo? / Quel temps fait-il?</i>|dossier-2 la-météo dossier-2-leçon-3
-mauvais|<b>Meaning</b>: bad (weather)<br><b>Phrase: </b><i>Il fait mauvais.</i>|dossier-2 la-météo dossier-2-leçon-3
+un timbre|<b>Meaning</b>: a stamp<br><b>Phrase: </b><i>Il me faut un timbre.</i>|dossier-2 la-correspondance dossier-2-leçon-3
 la montagne|<b>Meaning</b>: the mountain<br><b>Phrase: </b><i>J'aime la montagne.</i>|dossier-2 les-lieux dossier-2-leçon-3
 la plage|<b>Meaning</b>: the beach<br><b>Phrase: </b><i>Je vais à la plage.</i>|dossier-2 les-lieux dossier-2-leçon-3
-aujourd'hui|<b>Meaning</b>: today<br><b>Phrase: </b><i>C'est aujourd'hui.</i>|dossier-2 les-moments dossier-2-leçon-3
-demain|<b>Meaning</b>: tomorrow<br><b>Phrase: </b><i>Je serai là demain.</i>|dossier-2 les-moments dossier-2-leçon-3
-hier|<b>Meaning</b>: yesterday<br><b>Phrase: </b><i>J'étais là hier.</i>|dossier-2 les-moments dossier-2-leçon-3
+hier|<b>Meaning</b>: yesterday<br><b>Phrase: </b><i>Hier, j'étais ici.</i>|dossier-2 les-moments dossier-2-leçon-3
+aujourd'hui|<b>Meaning</b>: today<br><b>Phrase: </b><i>Aujourd'hui, il fait beau.</i>|dossier-2 les-moments dossier-2-leçon-3
+demain|<b>Meaning</b>: tomorrow<br><b>Phrase: </b><i>Demain, je pars.</i>|dossier-2 les-moments dossier-2-leçon-3
+la météo = le temps|<b>Meaning</b>: the weather<br><b>Phrase: </b><i>Quelle est la météo?</i>|dossier-2 la-météo dossier-2-leçon-3
+faire chaud ↑ froid|<b>Meaning</b>: to be hot ↑ cold<br><b>Phrase: </b><i>Il fait chaud.</i>|dossier-2 la-météo dossier-2-leçon-3
+faire beau ↑ mauvais|<b>Meaning</b>: to be nice ↑ bad (weather)<br><b>Phrase: </b><i>Il fait beau.</i>|dossier-2 la-météo dossier-2-leçon-3
 faire du shopping|<b>Meaning</b>: to go shopping<br><b>Phrase: </b><i>J'aime faire du shopping.</i>|dossier-2 les-vacances-et-loisirs dossier-2-leçon-3
-passer ses vacances|<b>Meaning</b>: to spend one's holidays<br><b>Phrase: </b><i>Je passe mes vacances à la mer.</i>|dossier-2 les-vacances-et-loisirs dossier-2-leçon-3
-se baigner|<b>Meaning</b>: to swim<br><b>Phrase: </b><i>On peut se baigner.</i>|dossier-2 les-vacances-et-loisirs dossier-2-leçon-3
+passer ses vacances|<b>Meaning</b>: to spend one's vacation<br><b>Phrase: </b><i>Je passe mes vacances à la mer.</i>|dossier-2 les-vacances-et-loisirs dossier-2-leçon-3
+se baigner|<b>Meaning</b>: to swim<br><b>Phrase: </b><i>Je me baigne dans la mer.</i>|dossier-2 les-vacances-et-loisirs dossier-2-leçon-3
 aller à (la destination)|<b>Meaning</b>: to go to (the destination)<br><b>Phrase: </b><i>Je vais à Paris.</i>|dossier-2 se-déplacer dossier-2-leçon-3
 marcher|<b>Meaning</b>: to walk<br><b>Phrase: </b><i>J'aime marcher.</i>|dossier-2 se-déplacer dossier-2-leçon-3
 rentrer de (la provenance)|<b>Meaning</b>: to return from (the origin)<br><b>Phrase: </b><i>Je rentre de vacances.</i>|dossier-2 se-déplacer dossier-2-leçon-3
-se promener|<b>Meaning</b>: to take a walk<br><b>Phrase: </b><i>J'aime me promener dans le parc.</i>|dossier-2 se-déplacer dossier-2-leçon-3
+se promener|<b>Meaning</b>: to take a walk<br><b>Phrase: </b><i>Je me promène dans le parc.</i>|dossier-2 se-déplacer dossier-2-leçon-3
 venir de|<b>Meaning</b>: to come from<br><b>Phrase: </b><i>Je viens de France.</i>|dossier-2 se-déplacer dossier-2-leçon-3
+content(e) ≠ triste|<b>Meaning</b>: happy ≠ sad<br><b>Phrase: </b><i>Je suis content(e).</i>|dossier-2 caractériser dossier-2-leçon-3
+extraordinaire|<b>Meaning</b>: extraordinary<br><b>Phrase: </b><i>C'est extraordinaire!</i>|dossier-2 caractériser dossier-2-leçon-3
+génial(e)|<b>Meaning</b>: great<br><b>Phrase: </b><i>C'est génial!</i>|dossier-2 caractériser dossier-2-leçon-3
+magnifique|<b>Meaning</b>: magnificent<br><b>Phrase: </b><i>C'est magnifique!</i>|dossier-2 caractériser dossier-2-leçon-3
+merveilleux(euse)|<b>Meaning</b>: wonderful<br><b>Phrase: </b><i>C'est merveilleux!</i>|dossier-2 caractériser dossier-2-leçon-3
+moderne|<b>Meaning</b>: modern<br><b>Phrase: </b><i>Cette ville est moderne.</i>|dossier-2 caractériser dossier-2-leçon-3
+super|<b>Meaning</b>: super<br><b>Phrase: </b><i>C'est super!</i>|dossier-2 caractériser dossier-2-leçon-3

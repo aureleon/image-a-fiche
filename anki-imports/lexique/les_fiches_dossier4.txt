@@ -1,99 +1,101 @@
-devoir|<b>Meaning</b>: to have to/must<br><b>Phrase: </b><i>Je dois partir.</i>|dossier-4 exprimer-une-obligation dossier-4-leçon-1
-falloir (il faut)|<b>Meaning</b>: to be necessary (it is necessary)<br><b>Phrase: </b><i>Il faut étudier.</i>|dossier-4 exprimer-une-obligation dossier-4-leçon-1
-aller sur Internet|<b>Meaning</b>: to go on the internet<br><b>Phrase: </b><i>Je vais sur Internet.</i>|dossier-4 internet dossier-4-leçon-1
-faire un achat en ligne|<b>Meaning</b>: to make an online purchase<br><b>Phrase: </b><i>Je fais un achat en ligne.</i>|dossier-4 internet dossier-4-leçon-1
-jouer en ligne|<b>Meaning</b>: to play online<br><b>Phrase: </b><i>Je joue en ligne.</i>|dossier-4 internet dossier-4-leçon-1
-regarder ses mails|<b>Meaning</b>: to check one's emails<br><b>Phrase: </b><i>Je regarde mes mails.</i>|dossier-4 internet dossier-4-leçon-1
-regarder une vidéo|<b>Meaning</b>: to watch a video<br><b>Phrase: </b><i>Je regarde une vidéo.</i>|dossier-4 internet dossier-4-leçon-1
-rester devant son ordinateur|<b>Meaning</b>: to stay in front of one's computer<br><b>Phrase: </b><i>Je reste devant mon ordinateur.</i>|dossier-4 internet dossier-4-leçon-1
-s'informer|<b>Meaning</b>: to get information<br><b>Phrase: </b><i>Je m'informe sur Internet.</i>|dossier-4 internet dossier-4-leçon-1
-se connecter|<b>Meaning</b>: to connect/log in<br><b>Phrase: </b><i>Je me connecte à Internet.</i>|dossier-4 internet dossier-4-leçon-1
-surfer (sur Internet)|<b>Meaning</b>: to surf (the internet)<br><b>Phrase: </b><i>Je surfe sur Internet.</i>|dossier-4 internet dossier-4-leçon-1
-un(e) internaute|<b>Meaning</b>: an internet user<br><b>Phrase: </b><i>Il est internaute. / Elle est internaute.</i>|dossier-4 internet dossier-4-leçon-1
-après|<b>Meaning</b>: after<br><b>Phrase: </b><i>Après, je rentre à la maison.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
-d'abord|<b>Meaning</b>: first<br><b>Phrase: </b><i>D'abord, je me lève.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
-ensuite|<b>Meaning</b>: next<br><b>Phrase: </b><i>Ensuite, je vais au travail.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
-finalement|<b>Meaning</b>: finally<br><b>Phrase: </b><i>Finalement, je me couche.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
-puis|<b>Meaning</b>: then<br><b>Phrase: </b><i>Puis, je prends mon petit déjeuner.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
-avoir du temps|<b>Meaning</b>: to have time<br><b>Phrase: </b><i>J'ai du temps libre.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-en avance ↑ en retard|<b>Meaning</b>: ahead of time ↑ late<br><b>Phrase: </b><i>Je suis en avance. / Je suis en retard.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-tôt ↑ tard|<b>Meaning</b>: early ↑ late<br><b>Phrase: </b><i>Il est tôt. / Il est tard.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-un horaire d'ouverture ↑ de fermeture|<b>Meaning</b>: an opening schedule ↑ closing<br><b>Phrase: </b><i>Quel est l'horaire d'ouverture? / Quel est l'horaire de fermeture?</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-un magasin ouvert ↑ fermé|<b>Meaning</b>: an open ↑ closed store<br><b>Phrase: </b><i>Le magasin est ouvert. / Le magasin est fermé.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-un moment|<b>Meaning</b>: a moment<br><b>Phrase: </b><i>Un moment, s'il vous plaît.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-un rythme de vie|<b>Meaning</b>: a rhythm of life/lifestyle<br><b>Phrase: </b><i>J'ai un rythme de vie actif.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-une heure|<b>Meaning</b>: an hour/a time<br><b>Phrase: </b><i>Quelle heure est-il? / À quelle heure?</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-une journée|<b>Meaning</b>: a day<br><b>Phrase: </b><i>C'est une belle journée.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+#separator:|
+#html:true
+un horaire d'ouverture ↑ de fermeture|<b>Meaning</b>: opening ↑ closing hours<br><b>Phrase: </b><i>L'horaire d'ouverture est à 9h et l'horaire de fermeture est à 17h.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+une heure|<b>Meaning</b>: an hour<br><b>Phrase: </b><i>Il est une heure.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+une journée|<b>Meaning</b>: a day<br><b>Phrase: </b><i>J'ai passé une bonne journée.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+un magasin ouvert ↑ fermé|<b>Meaning</b>: an open ↑ closed store<br><b>Phrase: </b><i>Le magasin est ouvert aujourd'hui. / Le magasin est fermé le dimanche.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+un moment|<b>Meaning</b>: a moment<br><b>Phrase: </b><i>Attends un moment, s'il te plaît.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+un rythme de vie|<b>Meaning</b>: a rhythm of life<br><b>Phrase: </b><i>J'aime mon rythme de vie.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
 une soirée|<b>Meaning</b>: an evening<br><b>Phrase: </b><i>Bonne soirée!</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
-faire ses devoirs|<b>Meaning</b>: to do one's homework<br><b>Phrase: </b><i>Je fais mes devoirs le soir.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-préparer/prendre le petit déjeuner|<b>Meaning</b>: to prepare/have breakfast<br><b>Phrase: </b><i>Je prépare le petit déjeuner. / Je prends le petit déjeuner.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-rentrer (à la maison)|<b>Meaning</b>: to return (home)<br><b>Phrase: </b><i>Je rentre à la maison après le travail.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-s'amuser|<b>Meaning</b>: to have fun<br><b>Phrase: </b><i>Je m'amuse avec mes amis.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-s'endormir|<b>Meaning</b>: to fall asleep<br><b>Phrase: </b><i>Je m'endors facilement.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-s'habiller|<b>Meaning</b>: to get dressed<br><b>Phrase: </b><i>Je m'habille rapidement.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se brosser les dents|<b>Meaning</b>: to brush one's teeth<br><b>Phrase: </b><i>Je me brosse les dents.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se coiffer|<b>Meaning</b>: to do one's hair<br><b>Phrase: </b><i>Je me coiffe devant le miroir.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se coucher|<b>Meaning</b>: to go to bed<br><b>Phrase: </b><i>Je me couche tard.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se doucher|<b>Meaning</b>: to take a shower<br><b>Phrase: </b><i>Je me douche le matin.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se laver|<b>Meaning</b>: to wash oneself<br><b>Phrase: </b><i>Je me lave le visage.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se lever|<b>Meaning</b>: to get up<br><b>Phrase: </b><i>Je me lève à 7h30.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se maquiller|<b>Meaning</b>: to put on makeup<br><b>Phrase: </b><i>Je me maquille avant de sortir.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se préparer|<b>Meaning</b>: to get ready<br><b>Phrase: </b><i>Je me prépare pour sortir.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se raser|<b>Meaning</b>: to shave<br><b>Phrase: </b><i>Je me rase tous les jours.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se reposer|<b>Meaning</b>: to rest<br><b>Phrase: </b><i>Je me repose le week-end.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-se réveiller|<b>Meaning</b>: to wake up<br><b>Phrase: </b><i>Je me réveille à 7h00.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
-un panneau|<b>Meaning</b>: a sign<br><b>Phrase: </b><i>J'ai vu un panneau.</i>|dossier-4 les-écrits dossier-4-leçon-1
-allumer/regarder la télé(vision)|<b>Meaning</b>: to turn on/watch television<br><b>Phrase: </b><i>J'allume la télé. / Je regarde la télévision.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-choisir un film|<b>Meaning</b>: to choose a film/movie<br><b>Phrase: </b><i>Je dois choisir un film.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+avoir du temps|<b>Meaning</b>: to have time<br><b>Phrase: </b><i>Je n'ai pas beaucoup de temps.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+tôt ↑ tard|<b>Meaning</b>: early ↑ late<br><b>Phrase: </b><i>Je me lève tôt. / Je me couche tard.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+en avance ↑ en retard|<b>Meaning</b>: early ↑ late<br><b>Phrase: </b><i>Je suis en avance pour le rendez-vous. / Je suis en retard.</i>|dossier-4 le-temps-et-les-horaires dossier-4-leçon-1
+d'abord|<b>Meaning</b>: first<br><b>Phrase: </b><i>D'abord, je bois un café.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
+puis|<b>Meaning</b>: then<br><b>Phrase: </b><i>Puis, je vais au travail.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
+ensuite|<b>Meaning</b>: next<br><b>Phrase: </b><i>Ensuite, je déjeune.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
+après|<b>Meaning</b>: after<br><b>Phrase: </b><i>Après, je travaille encore.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
+finalement|<b>Meaning</b>: finally<br><b>Phrase: </b><i>Finalement, je rentre chez moi.</i>|dossier-4 la-succession-des-actions dossier-4-leçon-1
 la radio|<b>Meaning</b>: the radio<br><b>Phrase: </b><i>J'écoute la radio.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
 la télévision|<b>Meaning</b>: the television<br><b>Phrase: </b><i>Je regarde la télévision.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-le journal = les informations = les actualités|<b>Meaning</b>: the newspaper = the news<br><b>Phrase: </b><i>Je lis le journal. / Je regarde les informations. / Je suis les actualités.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-rester devant la télé|<b>Meaning</b>: to stay in front of the TV<br><b>Phrase: </b><i>Je reste devant la télé.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
 un clip (musical)|<b>Meaning</b>: a (music) clip<br><b>Phrase: </b><i>J'aime ce clip musical.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-un dessin animé|<b>Meaning</b>: a cartoon<br><b>Phrase: </b><i>Je regarde un dessin animé.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+un dessin animé|<b>Meaning</b>: a cartoon<br><b>Phrase: </b><i>Les enfants regardent un dessin animé.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
 un documentaire|<b>Meaning</b>: a documentary<br><b>Phrase: </b><i>J'ai vu un documentaire intéressant.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-un écran|<b>Meaning</b>: a screen<br><b>Phrase: </b><i>L'écran de l'ordinateur.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-un feuilleton|<b>Meaning</b>: a soap opera/series<br><b>Phrase: </b><i>Je suis ce feuilleton.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-un film|<b>Meaning</b>: a film/movie<br><b>Phrase: </b><i>Je vais voir un film.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-un match (de football/tennis)|<b>Meaning</b>: a (football/tennis) match<br><b>Phrase: </b><i>Je regarde un match de football. / Je regarde un match de tennis.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-une émission (de télévision)|<b>Meaning</b>: a (television) program/show<br><b>Phrase: </b><i>Quelle est ton émission préférée?</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-une série|<b>Meaning</b>: a series<br><b>Phrase: </b><i>Je regarde une série.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
-sympathique = sympa (fam.)|<b>Meaning</b>: nice/friendly<br><b>Phrase: </b><i>Il est sympathique. / Il est sympa.</i>|dossier-4 caractériser dossier-4-leçon-2
-amener quelqu'un|<b>Meaning</b>: to bring someone<br><b>Phrase: </b><i>Je vais amener un ami.</i>|dossier-4 les-invitations dossier-4-leçon-2
-apporter quelque chose à boire ou à manger|<b>Meaning</b>: to bring something to drink or eat<br><b>Phrase: </b><i>Je vais apporter quelque chose à boire. / Je vais apporter quelque chose à manger.</i>|dossier-4 les-invitations dossier-4-leçon-2
-confirmer (sa venue)|<b>Meaning</b>: to confirm (one's arrival)<br><b>Phrase: </b><i>Je confirme ma venue.</i>|dossier-4 les-invitations dossier-4-leçon-2
-inviter quelqu'un à une fête|<b>Meaning</b>: to invite someone to a party<br><b>Phrase: </b><i>J'invite mes amis à une fête.</i>|dossier-4 les-invitations dossier-4-leçon-2
-organiser une fête|<b>Meaning</b>: to organize a party<br><b>Phrase: </b><i>J'organise une fête.</i>|dossier-4 les-invitations dossier-4-leçon-2
-répondre à une invitation|<b>Meaning</b>: to respond to an invitation<br><b>Phrase: </b><i>Je réponds à une invitation.</i>|dossier-4 les-invitations dossier-4-leçon-2
+un écran|<b>Meaning</b>: a screen<br><b>Phrase: </b><i>L'écran est grand.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+une émission (de télévision)|<b>Meaning</b>: a (television) show<br><b>Phrase: </b><i>Cette émission est amusante.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+un feuilleton|<b>Meaning</b>: a soap opera<br><b>Phrase: </b><i>Ma grand-mère regarde un feuilleton.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+le journal = les informations = les actualités|<b>Meaning</b>: the news<br><b>Phrase: </b><i>Je lis le journal tous les matins.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+un film|<b>Meaning</b>: a film<br><b>Phrase: </b><i>On va voir un film au cinéma.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+un match (de football/tennis)|<b>Meaning</b>: a (football/tennis) match<br><b>Phrase: </b><i>Je regarde un match de football.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+une série|<b>Meaning</b>: a series<br><b>Phrase: </b><i>Je suis une série sur Netflix.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+allumer/regarder la télé(vision)|<b>Meaning</b>: to turn on/watch the television<br><b>Phrase: </b><i>J'allume la télé pour regarder les nouvelles.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+choisir un film|<b>Meaning</b>: to choose a movie<br><b>Phrase: </b><i>On doit choisir un film pour ce soir.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+rester devant la télé|<b>Meaning</b>: to stay in front of the TV<br><b>Phrase: </b><i>Il reste souvent devant la télé.</i>|dossier-4 les-médias-et-internet dossier-4-leçon-1
+un(e) internaute|<b>Meaning</b>: an internet user<br><b>Phrase: </b><i>Je suis un internaute.</i>|dossier-4 internet dossier-4-leçon-1
+aller sur Internet|<b>Meaning</b>: to go on the internet<br><b>Phrase: </b><i>Je vais sur Internet pour chercher des informations.</i>|dossier-4 internet dossier-4-leçon-1
+faire un achat en ligne|<b>Meaning</b>: to make an online purchase<br><b>Phrase: </b><i>J'ai fait un achat en ligne hier.</i>|dossier-4 internet dossier-4-leçon-1
+jouer en ligne|<b>Meaning</b>: to play online<br><b>Phrase: </b><i>Les enfants aiment jouer en ligne.</i>|dossier-4 internet dossier-4-leçon-1
+regarder ses mails|<b>Meaning</b>: to check one's emails<br><b>Phrase: </b><i>Je regarde mes mails tous les jours.</i>|dossier-4 internet dossier-4-leçon-1
+regarder une vidéo|<b>Meaning</b>: to watch a video<br><b>Phrase: </b><i>Je regarde une vidéo sur YouTube.</i>|dossier-4 internet dossier-4-leçon-1
+rester devant son ordinateur|<b>Meaning</b>: to stay in front of one's computer<br><b>Phrase: </b><i>Il reste devant son ordinateur toute la journée.</i>|dossier-4 internet dossier-4-leçon-1
+s'informer|<b>Meaning</b>: to get informed<br><b>Phrase: </b><i>Je m'informe sur Internet.</i>|dossier-4 internet dossier-4-leçon-1
+se connecter|<b>Meaning</b>: to connect<br><b>Phrase: </b><i>Je me connecte au wifi.</i>|dossier-4 internet dossier-4-leçon-1
+surfer (sur Internet)|<b>Meaning</b>: to surf (the internet)<br><b>Phrase: </b><i>J'aime surfer sur Internet.</i>|dossier-4 internet dossier-4-leçon-1
+se réveiller|<b>Meaning</b>: to wake up<br><b>Phrase: </b><i>Je me réveille à 7 heures.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se lever|<b>Meaning</b>: to get up<br><b>Phrase: </b><i>Je me lève à 7h30.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+préparer/prendre le petit déjeuner|<b>Meaning</b>: to prepare/have breakfast<br><b>Phrase: </b><i>Je prépare le petit déjeuner. / Je prends le petit déjeuner.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se brosser les dents|<b>Meaning</b>: to brush one's teeth<br><b>Phrase: </b><i>Je me brosse les dents après le petit déjeuner.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se doucher|<b>Meaning</b>: to take a shower<br><b>Phrase: </b><i>Je me douche tous les matins.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se laver|<b>Meaning</b>: to wash oneself<br><b>Phrase: </b><i>Je me lave le visage.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se préparer|<b>Meaning</b>: to get ready<br><b>Phrase: </b><i>Je me prépare pour sortir.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+s'habiller|<b>Meaning</b>: to get dressed<br><b>Phrase: </b><i>Je m'habille rapidement.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se coiffer|<b>Meaning</b>: to do one's hair<br><b>Phrase: </b><i>Je me coiffe devant le miroir.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se raser|<b>Meaning</b>: to shave<br><b>Phrase: </b><i>Il se rase tous les jours.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se maquiller|<b>Meaning</b>: to put on makeup<br><b>Phrase: </b><i>Elle se maquille avant de sortir.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+rentrer (à la maison)|<b>Meaning</b>: to return (home)<br><b>Phrase: </b><i>Je rentre à la maison après le travail.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se reposer|<b>Meaning</b>: to rest<br><b>Phrase: </b><i>Je me repose le week-end.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+faire ses devoirs|<b>Meaning</b>: to do one's homework<br><b>Phrase: </b><i>Les enfants font leurs devoirs.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+s'amuser|<b>Meaning</b>: to have fun<br><b>Phrase: </b><i>On s'amuse bien ensemble.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+se coucher|<b>Meaning</b>: to go to bed<br><b>Phrase: </b><i>Je me couche à 23 heures.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+s'endormir|<b>Meaning</b>: to fall asleep<br><b>Phrase: </b><i>Je m'endors facilement.</i>|dossier-4 les-activités-quotidiennes dossier-4-leçon-1
+devoir|<b>Meaning</b>: to have to, must<br><b>Phrase: </b><i>Je dois travailler.</i>|dossier-4 exprimer-une-obligation dossier-4-leçon-1
+falloir (il faut)|<b>Meaning</b>: to be necessary (it is necessary)<br><b>Phrase: </b><i>Il faut étudier.</i>|dossier-4 exprimer-une-obligation dossier-4-leçon-1
+un panneau|<b>Meaning</b>: a sign<br><b>Phrase: </b><i>Lis le panneau!</i>|dossier-4 les-écrits dossier-4-leçon-1
 un(e) ami(e)|<b>Meaning</b>: a friend<br><b>Phrase: </b><i>C'est mon ami. / C'est mon amie.</i>|dossier-4 les-personnes dossier-4-leçon-2
 un(e) voisin(e)|<b>Meaning</b>: a neighbor<br><b>Phrase: </b><i>C'est mon voisin. / C'est ma voisine.</i>|dossier-4 les-personnes dossier-4-leçon-2
-accepter ↑ refuser|<b>Meaning</b>: to accept ↑ refuse<br><b>Phrase: </b><i>J'accepte l'invitation. / Je refuse l'invitation.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-aller à une exposition = à une expo (fam.)|<b>Meaning</b>: to go to an exhibition<br><b>Phrase: </b><i>Je vais à une exposition. / Je vais à une expo.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-aller à une soirée|<b>Meaning</b>: to go to a party/evening event<br><b>Phrase: </b><i>Je vais à une soirée.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-aller au cinéma = au ciné (fam.)|<b>Meaning</b>: to go to the cinema<br><b>Phrase: </b><i>Je vais au cinéma. / Je vais au ciné.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-aller au restaurant = au resto (fam.)|<b>Meaning</b>: to go to the restaurant<br><b>Phrase: </b><i>Je vais au restaurant. / Je vais au resto.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-aller en discothèque/dans un club = en boîte (fam.)|<b>Meaning</b>: to go to a discotheque/club<br><b>Phrase: </b><i>Je vais en discothèque. / Je vais en boîte.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+proposer une sortie|<b>Meaning</b>: to suggest an outing<br><b>Phrase: </b><i>Je propose une sortie au cinéma.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+regarder son agenda|<b>Meaning</b>: to check one's calendar<br><b>Phrase: </b><i>Je regarde mon agenda pour voir si je suis libre.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+fixer/avoir un rendez-vous|<b>Meaning</b>: to set/have an appointment<br><b>Phrase: </b><i>On fixe un rendez-vous. / J'ai un rendez-vous chez le médecin.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+accepter ↑ refuser|<b>Meaning</b>: to accept ↑ to refuse<br><b>Phrase: </b><i>J'accepte l'invitation. / Je refuse l'invitation.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+pouvoir|<b>Meaning</b>: to be able to, can<br><b>Phrase: </b><i>Je peux venir.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+vouloir|<b>Meaning</b>: to want to<br><b>Phrase: </b><i>Je veux aller au cinéma.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
 être libre|<b>Meaning</b>: to be free<br><b>Phrase: </b><i>Je suis libre ce soir.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-fixer/avoir un rendez-vous|<b>Meaning</b>: to set/have an appointment<br><b>Phrase: </b><i>Je fixe un rendez-vous. / J'ai un rendez-vous.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-pouvoir|<b>Meaning</b>: to be able to/can<br><b>Phrase: </b><i>Je peux venir.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-prendre un verre/l'apéritif|<b>Meaning</b>: to have a drink/aperitif<br><b>Phrase: </b><i>On va prendre un verre. / On va prendre l'apéritif.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-proposer une sortie|<b>Meaning</b>: to suggest an outing<br><b>Phrase: </b><i>Je propose une sortie.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-regarder son agenda|<b>Meaning</b>: to check one's schedule<br><b>Phrase: </b><i>Je regarde mon agenda.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-se retrouver (à un moment/dans un lieu)|<b>Meaning</b>: to meet (at a time/in a place)<br><b>Phrase: </b><i>On se retrouve à 18h00. / On se retrouve au café.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-vouloir|<b>Meaning</b>: to want<br><b>Phrase: </b><i>Je veux aller au cinéma.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
-d'habitude = en général|<b>Meaning</b>: usually = in general<br><b>Phrase: </b><i>D'habitude, je me lève tôt. / En général, je me lève tôt.</i>|dossier-4 la-régularité-et-la-fréquence dossier-4-leçon-3
-le matin = chaque matin = tous les matins|<b>Meaning</b>: in the morning = each morning = every morning<br><b>Phrase: </b><i>Je me lève le matin. / Je me lève chaque matin. / Je me lève tous les matins.</i>|dossier-4 la-régularité-et-la-fréquence dossier-4-leçon-3
-souvent|<b>Meaning</b>: often<br><b>Phrase: </b><i>Je vais souvent au cinéma.</i>|dossier-4 la-régularité-et-la-fréquence dossier-4-leçon-3
-tous les jours|<b>Meaning</b>: every day<br><b>Phrase: </b><i>Je vais à l'école tous les jours.</i>|dossier-4 la-régularité-et-la-fréquence dossier-4-leçon-3
-courir|<b>Meaning</b>: to run<br><b>Phrase: </b><i>J'aime courir.</i>|dossier-4 les-activités dossier-4-leçon-3
-danser|<b>Meaning</b>: to dance<br><b>Phrase: </b><i>J'aime danser.</i>|dossier-4 les-activités dossier-4-leçon-3
+se retrouver (à un moment/dans un lieu)|<b>Meaning</b>: to meet (at a time/in a place)<br><b>Phrase: </b><i>On se retrouve à 18h devant le cinéma.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+aller à une soirée|<b>Meaning</b>: to go to a party<br><b>Phrase: </b><i>Je vais à une soirée chez Marie.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+aller au cinéma = au ciné (fam.)|<b>Meaning</b>: to go to the cinema<br><b>Phrase: </b><i>On va au cinéma ce soir.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+aller au restaurant = au resto (fam.)|<b>Meaning</b>: to go to the restaurant<br><b>Phrase: </b><i>On va au restaurant pour dîner.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+aller à une exposition à une expo (fam.)|<b>Meaning</b>: to go to an exhibition<br><b>Phrase: </b><i>On va à une exposition d'art.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+aller en discothèque/dans un club = en boîte (fam.)|<b>Meaning</b>: to go to a discotheque/club<br><b>Phrase: </b><i>On va en boîte samedi soir.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+prendre un verre/l'apéritif|<b>Meaning</b>: to have a drink/an aperitif<br><b>Phrase: </b><i>On prend un verre après le travail.</i>|dossier-4 les-rendez-vous-et-sorties dossier-4-leçon-2
+organiser une fête|<b>Meaning</b>: to organize a party<br><b>Phrase: </b><i>J'organise une fête pour mon anniversaire.</i>|dossier-4 les-invitations dossier-4-leçon-2
+inviter quelqu'un à une fête|<b>Meaning</b>: to invite someone to a party<br><b>Phrase: </b><i>J'invite mes amis à ma fête.</i>|dossier-4 les-invitations dossier-4-leçon-2
+répondre à une invitation|<b>Meaning</b>: to respond to an invitation<br><b>Phrase: </b><i>Je dois répondre à l'invitation.</i>|dossier-4 les-invitations dossier-4-leçon-2
+confirmer (sa venue)|<b>Meaning</b>: to confirm (one's attendance)<br><b>Phrase: </b><i>Je confirme ma venue à la fête.</i>|dossier-4 les-invitations dossier-4-leçon-2
+amener quelqu'un|<b>Meaning</b>: to bring someone<br><b>Phrase: </b><i>Je vais amener mon ami.</i>|dossier-4 les-invitations dossier-4-leçon-2
+apporter quelque chose à boire ou à manger|<b>Meaning</b>: to bring something to drink or eat<br><b>Phrase: </b><i>J'apporte une bouteille de vin.</i>|dossier-4 les-invitations dossier-4-leçon-2
+sympathique = sympa (fam.)|<b>Meaning</b>: nice, friendly<br><b>Phrase: </b><i>Il est très sympathique. / Il est très sympa.</i>|dossier-4 caractériser dossier-4-leçon-2
+courir|<b>Meaning</b>: to run<br><b>Phrase: </b><i>J'aime courir le matin.</i>|dossier-4 les-activités dossier-4-leçon-3
+danser|<b>Meaning</b>: to dance<br><b>Phrase: </b><i>Elle aime danser.</i>|dossier-4 les-activités dossier-4-leçon-3
 déjeuner|<b>Meaning</b>: to have lunch<br><b>Phrase: </b><i>Je déjeune à midi.</i>|dossier-4 les-activités dossier-4-leçon-3
-dîner|<b>Meaning</b>: to have dinner<br><b>Phrase: </b><i>Je dîne à 20h00.</i>|dossier-4 les-activités dossier-4-leçon-3
-dormir|<b>Meaning</b>: to sleep<br><b>Phrase: </b><i>J'aime dormir.</i>|dossier-4 les-activités dossier-4-leçon-3
+dîner|<b>Meaning</b>: to have dinner<br><b>Phrase: </b><i>Nous dînons à 20h.</i>|dossier-4 les-activités dossier-4-leçon-3
+dormir|<b>Meaning</b>: to sleep<br><b>Phrase: </b><i>Je dors bien.</i>|dossier-4 les-activités dossier-4-leçon-3
 emmener ↑ aller chercher/reprendre les enfants à l'école|<b>Meaning</b>: to take ↑ to pick up the children from school<br><b>Phrase: </b><i>J'emmène les enfants à l'école. / Je vais chercher les enfants à l'école.</i>|dossier-4 les-activités dossier-4-leçon-3
-faire les courses; le ménage; la vaisselle|<b>Meaning</b>: to do the shopping; the housework; the dishes<br><b>Phrase: </b><i>Je fais les courses. / Je fais le ménage. / Je fais la vaisselle.</i>|dossier-4 les-activités dossier-4-leçon-3
+faire les courses; le ménage; la vaisselle|<b>Meaning</b>: to do the shopping; the housework; the dishes<br><b>Phrase: </b><i>Je fais les courses le samedi. / Je fais le ménage. / Je fais la vaisselle.</i>|dossier-4 les-activités dossier-4-leçon-3
 ranger|<b>Meaning</b>: to tidy up<br><b>Phrase: </b><i>Je range ma chambre.</i>|dossier-4 les-activités dossier-4-leçon-3
 rencontrer des gens|<b>Meaning</b>: to meet people<br><b>Phrase: </b><i>J'aime rencontrer des gens.</i>|dossier-4 les-activités dossier-4-leçon-3
 rester au lit|<b>Meaning</b>: to stay in bed<br><b>Phrase: </b><i>Je reste au lit quand je suis malade.</i>|dossier-4 les-activités dossier-4-leçon-3
-un journal intime|<b>Meaning</b>: a diary<br><b>Phrase: </b><i>J'écris dans mon journal intime.</i>|dossier-4 les-écrits-et-images dossier-4-leçon-3
-une bande dessinée|<b>Meaning</b>: a comic strip<br><b>Phrase: </b><i>J'aime lire des bandes dessinées.</i>|dossier-4 les-écrits-et-images dossier-4-leçon-3
+d'habitude = en général|<b>Meaning</b>: usually, generally<br><b>Phrase: </b><i>D'habitude, je me lève tôt.</i>|dossier-4 la-régularité-et-la-fréquence dossier-4-leçon-3
+tous les jours|<b>Meaning</b>: every day<br><b>Phrase: </b><i>Je travaille tous les jours.</i>|dossier-4 la-régularité-et-la-fréquence dossier-4-leçon-3
+le matin = chaque matin = tous les matins|<b>Meaning</b>: in the morning, every morning<br><b>Phrase: </b><i>Je bois du café le matin.</i>|dossier-4 la-régularité-et-la-fréquence dossier-4-leçon-3
+souvent|<b>Meaning</b>: often<br><b>Phrase: </b><i>Je vais souvent au cinéma.</i>|dossier-4 la-régularité-et-la-fréquence dossier-4-leçon-3
+une bande dessinée|<b>Meaning</b>: a comic book<br><b>Phrase: </b><i>J'aime lire des bandes dessinées.</i>|dossier-4 les-écrits-et-images dossier-4-leçon-3
+un journal intime|<b>Meaning</b>: a diary<br><b>Phrase: </b><i>Elle écrit dans son journal intime.</i>|dossier-4 les-écrits-et-images dossier-4-leçon-3

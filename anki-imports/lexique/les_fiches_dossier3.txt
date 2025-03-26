@@ -1,85 +1,48 @@
-indépendant(e)|<b>Meaning</b>: independent<br><b>Phrase: </b><i>Je suis indépendant. / Je suis indépendante.</i>|dossier-3 caractériser dossier-3-leçon-1
-sociable|<b>Meaning</b>: sociable<br><b>Phrase: </b><i>Je suis sociable.</i>|dossier-3 caractériser dossier-3-leçon-1
-sportif(ive)|<b>Meaning</b>: athletic<br><b>Phrase: </b><i>Je suis sportif. / Je suis sportive.</i>|dossier-3 caractériser dossier-3-leçon-1
-un témoignage|<b>Meaning</b>: a testimony<br><b>Phrase: </b><i>Voici un témoignage.</i>|dossier-3 les-écrits dossier-3-leçon-1
-adorer ≠ détester|<b>Meaning</b>: to love ≠ to hate<br><b>Phrase: </b><i>J'adore le chocolat. / Je déteste les épinards.</i>|dossier-3 les-goûts dossier-3-leçon-1
-aimer (bien/beaucoup)|<b>Meaning</b>: to like (well/a lot)<br><b>Phrase: </b><i>J'aime bien le café. / J'aime beaucoup le thé.</i>|dossier-3 les-goûts dossier-3-leçon-1
-l'étranger (m.)|<b>Meaning</b>: abroad<br><b>Phrase: </b><i>Je voyage à l'étranger.</i>|dossier-3 les-lieux dossier-3-leçon-1
-la campagne|<b>Meaning</b>: the countryside<br><b>Phrase: </b><i>J'aime la campagne.</i>|dossier-3 les-lieux dossier-3-leçon-1
-la mer|<b>Meaning</b>: the sea<br><b>Phrase: </b><i>J'aime la mer.</i>|dossier-3 les-lieux dossier-3-leçon-1
-un bar|<b>Meaning</b>: a bar<br><b>Phrase: </b><i>On va au bar.</i>|dossier-3 les-lieux dossier-3-leçon-1
-un restaurant|<b>Meaning</b>: a restaurant<br><b>Phrase: </b><i>On mange au restaurant.</i>|dossier-3 les-lieux dossier-3-leçon-1
-l'art et la culture|{'chanter': "<b>Meaning</b>: to sing<br><b>Phrase: </b><i>J'aime chanter.</i>", "faire de l'aquarelle": "<b>Meaning</b>: to do watercolor painting<br><b>Phrase: </b><i>Elle fait de l'aquarelle.</i>", 'faire de la musique': '<b>Meaning</b>: to play music<br><b>Phrase: </b><i>Je fais de la musique.</i>', 'faire de la photo': "<b>Meaning</b>: to take photos<br><b>Phrase: </b><i>J'aime faire de la photo.</i>", 'jouer de la guitare': '<b>Meaning</b>: to play the guitar<br><b>Phrase: </b><i>Il joue de la guitare.</i>', 'lire': "<b>Meaning</b>: to read<br><b>Phrase: </b><i>J'aime lire.</i>"}|dossier-3 les-loisirs dossier-3-leçon-1
-le sport|{"faire de l'escalade": "<b>Meaning</b>: to go climbing<br><b>Phrase: </b><i>Il fait de l'escalade.</i>", 'faire de la randonnée': "<b>Meaning</b>: to go hiking<br><b>Phrase: </b><i>J'aime faire de la randonnée.</i>", 'faire du parapente': '<b>Meaning</b>: to go paragliding<br><b>Phrase: </b><i>Il fait du parapente.</i>', 'faire du ski': '<b>Meaning</b>: to ski<br><b>Phrase: </b><i>Je fais du ski.</i>', 'faire du surf': '<b>Meaning</b>: to surf<br><b>Phrase: </b><i>Elle fait du surf.</i>', 'faire du vélo': '<b>Meaning</b>: to ride a bike<br><b>Phrase: </b><i>Je fais du vélo.</i>'}|dossier-3 les-loisirs dossier-3-leçon-1
-les jeux et la télévision|{'la téléréalité': '<b>Meaning</b>: reality TV<br><b>Phrase: </b><i>Je regarde la téléréalité.</i>', 'un(e) candidat(e)': '<b>Meaning</b>: a candidate<br><b>Phrase: </b><i>Il est candidat. / Elle est candidate.</i>', 'un(e) finaliste': '<b>Meaning</b>: a finalist<br><b>Phrase: </b><i>Il est finaliste. / Elle est finaliste.</i>'}|dossier-3 les-loisirs dossier-3-leçon-1
-les sorties|{'faire la fête': "<b>Meaning</b>: to party<br><b>Phrase: </b><i>J'aime faire la fête.</i>", 'rester en ville': '<b>Meaning</b>: to stay in the city<br><b>Phrase: </b><i>Je reste en ville.</i>', 'sortir (peu ≠ beaucoup)': '<b>Meaning</b>: to go out (little ≠ a lot)<br><b>Phrase: </b><i>Je sors peu. / Je sors beaucoup.</i>'}|dossier-3 les-loisirs dossier-3-leçon-1
-les voyages|{'être/partir en vacances': '<b>Meaning</b>: to be/go on vacation<br><b>Phrase: </b><i>Je suis en vacances. / Je pars en vacances.</i>', 'vivre une aventure': "<b>Meaning</b>: to live an adventure<br><b>Phrase: </b><i>J'aime vivre une aventure.</i>", 'voyager': "<b>Meaning</b>: to travel<br><b>Phrase: </b><i>J'aime voyager.</i>"}|dossier-3 les-loisirs dossier-3-leçon-1
-un(e) boulanger(ère): faire du pain|<b>Meaning</b>: a baker: to make bread<br><b>Phrase: </b><i>Il est boulanger. / Elle est boulangère. / Il fait du pain.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) chanteur(euse): chanter|<b>Meaning</b>: a singer: to sing<br><b>Phrase: </b><i>Il est chanteur. / Elle est chanteuse. / Elle aime chanter.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) coiffeur(euse): imaginer une coiffure, coiffer|<b>Meaning</b>: a hairdresser: to imagine a hairstyle, to style hair<br><b>Phrase: </b><i>Il est coiffeur. / Elle est coiffeuse. / Elle imagine une coiffure. / Elle coiffe bien.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) couturier(ère): créer des vêtements, habiller|<b>Meaning</b>: a fashion designer: to create clothes, to dress<br><b>Phrase: </b><i>Il est couturier. / Elle est couturière. / Il crée des vêtements. / Elle habille les gens.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) cuisinier(ère): cuisiner, imaginer des recettes, découvrir des spécialités|<b>Meaning</b>: a cook/chef: to cook, to imagine recipes, to discover specialties<br><b>Phrase: </b><i>Il est cuisinier. / Elle est cuisinière. / Il cuisine bien. / Elle imagine des recettes. / Il découvre des spécialités.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) journaliste: faire une interview/un reportage|<b>Meaning</b>: a journalist: to do an interview/a report<br><b>Phrase: </b><i>Il est journaliste. / Elle est journaliste. / Il fait une interview. / Elle fait un reportage.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) opticien(ne): vendre des lunettes|<b>Meaning</b>: an optician: to sell glasses<br><b>Phrase: </b><i>Il est opticien. / Elle est opticienne. / Il vend des lunettes.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) pharmacien(ne): vendre des médicaments, conseiller, aider les personnes malades|<b>Meaning</b>: a pharmacist: to sell medicine, to advise, to help sick people<br><b>Phrase: </b><i>Il est pharmacien. / Elle est pharmacienne. / Il vend des médicaments. / Il conseille les clients. / Il aide les personnes malades.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) photographe: faire des photos, des reportages|<b>Meaning</b>: a photographer: to take photos, to do reports<br><b>Phrase: </b><i>Il est photographe. / Elle est photographe. / Il fait des photos. / Il fait des reportages.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) réalisateur(trice): faire un film, diriger un acteur|<b>Meaning</b>: a director: to make a film, to direct an actor<br><b>Phrase: </b><i>Il est réalisateur. / Elle est réalisatrice. / Il fait un film. / Il dirige un acteur.</i>|dossier-3 les-professions dossier-3-leçon-1
-un(e) vétérinaire: soigner un animal (un chat, un chien, un lapin, un cheval, une vache, un mouton)|<b>Meaning</b>: a veterinarian: to treat an animal (a cat, a dog, a rabbit, a horse, a cow, a sheep)<br><b>Phrase: </b><i>Il est vétérinaire. / Elle est vétérinaire. / Il soigne un chat. / Elle soigne un chien. / Il soigne un lapin. / Il soigne un cheval. / Il soigne une vache. / Il soigne un mouton.</i>|dossier-3 les-professions dossier-3-leçon-1
-une profession = un métier: travailler|<b>Meaning</b>: a profession = a job: to work<br><b>Phrase: </b><i>Quelle est votre profession? / C'est un beau métier. / J'aime travailler.</i>|dossier-3 les-professions dossier-3-leçon-1
-rencontrer des gens|<b>Meaning</b>: to meet people<br><b>Phrase: </b><i>J'aime rencontrer des gens.</i>|dossier-3 les-relations dossier-3-leçon-1
-autoritaire|<b>Meaning</b>: authoritarian<br><b>Phrase: </b><i>Il est autoritaire.</i>|dossier-3 caractériser dossier-3-leçon-2
-beau/belle|<b>Meaning</b>: handsome/beautiful<br><b>Phrase: </b><i>Il est beau. / Elle est belle.</i>|dossier-3 caractériser dossier-3-leçon-2
-calme|<b>Meaning</b>: calm<br><b>Phrase: </b><i>Il est calme.</i>|dossier-3 caractériser dossier-3-leçon-2
-compliqué(e)|<b>Meaning</b>: complicated<br><b>Phrase: </b><i>C'est compliqué. / Elle est compliquée.</i>|dossier-3 caractériser dossier-3-leçon-2
-créatif(ive)|<b>Meaning</b>: creative<br><b>Phrase: </b><i>Il est créatif. / Elle est créative.</i>|dossier-3 caractériser dossier-3-leçon-2
-cultivé(e)|<b>Meaning</b>: cultured/well-read<br><b>Phrase: </b><i>Il est cultivé. / Elle est cultivée.</i>|dossier-3 caractériser dossier-3-leçon-2
-décontracté(e)|<b>Meaning</b>: relaxed<br><b>Phrase: </b><i>Il est décontracté. / Elle est décontractée.</i>|dossier-3 caractériser dossier-3-leçon-2
-doux (douce)|<b>Meaning</b>: gentle/soft<br><b>Phrase: </b><i>Il est doux. / Elle est douce.</i>|dossier-3 caractériser dossier-3-leçon-2
-dynamique|<b>Meaning</b>: dynamic<br><b>Phrase: </b><i>Il est dynamique.</i>|dossier-3 caractériser dossier-3-leçon-2
-élégant(e)|<b>Meaning</b>: elegant<br><b>Phrase: </b><i>Il est élégant. / Elle est élégante.</i>|dossier-3 caractériser dossier-3-leçon-2
-généreux(euse)|<b>Meaning</b>: generous<br><b>Phrase: </b><i>Il est généreux. / Elle est généreuse.</i>|dossier-3 caractériser dossier-3-leçon-2
-grand(e) ≠ petit(e)|<b>Meaning</b>: tall/big ≠ short/small<br><b>Phrase: </b><i>Il est grand. / Elle est petite.</i>|dossier-3 caractériser dossier-3-leçon-2
-indécis(e)|<b>Meaning</b>: indecisive<br><b>Phrase: </b><i>Il est indécis. / Elle est indécise.</i>|dossier-3 caractériser dossier-3-leçon-2
-intelligent(e)|<b>Meaning</b>: intelligent<br><b>Phrase: </b><i>Il est intelligent. / Elle est intelligente.</i>|dossier-3 caractériser dossier-3-leçon-2
-libre|<b>Meaning</b>: free<br><b>Phrase: </b><i>Je suis libre.</i>|dossier-3 caractériser dossier-3-leçon-2
-menteur(euse)|<b>Meaning</b>: liar<br><b>Phrase: </b><i>Il est menteur. / Elle est menteuse.</i>|dossier-3 caractériser dossier-3-leçon-2
-mince ≠ rond(e)|<b>Meaning</b>: thin ≠ round/chubby<br><b>Phrase: </b><i>Il est mince. / Elle est ronde.</i>|dossier-3 caractériser dossier-3-leçon-2
-optimiste|<b>Meaning</b>: optimistic<br><b>Phrase: </b><i>Il est optimiste.</i>|dossier-3 caractériser dossier-3-leçon-2
-organisé(e)|<b>Meaning</b>: organized<br><b>Phrase: </b><i>Il est organisé. / Elle est organisée.</i>|dossier-3 caractériser dossier-3-leçon-2
-patient(e)|<b>Meaning</b>: patient<br><b>Phrase: </b><i>Il est patient. / Elle est patiente.</i>|dossier-3 caractériser dossier-3-leçon-2
-positif(ive)|<b>Meaning</b>: positive<br><b>Phrase: </b><i>Il est positif. / Elle est positive.</i>|dossier-3 caractériser dossier-3-leçon-2
-responsable|<b>Meaning</b>: responsible<br><b>Phrase: </b><i>Il est responsable.</i>|dossier-3 caractériser dossier-3-leçon-2
-romantique|<b>Meaning</b>: romantic<br><b>Phrase: </b><i>Il est romantique.</i>|dossier-3 caractériser dossier-3-leçon-2
-sérieux(euse)|<b>Meaning</b>: serious<br><b>Phrase: </b><i>Il est sérieux. / Elle est sérieuse.</i>|dossier-3 caractériser dossier-3-leçon-2
-superficiel(le)|<b>Meaning</b>: superficial<br><b>Phrase: </b><i>Il est superficiel. / Elle est superficielle.</i>|dossier-3 caractériser dossier-3-leçon-2
-timide|<b>Meaning</b>: shy<br><b>Phrase: </b><i>Il est timide.</i>|dossier-3 caractériser dossier-3-leçon-2
-une annonce|<b>Meaning</b>: an advertisement<br><b>Phrase: </b><i>J'ai vu une annonce.</i>|dossier-3 les-écrits dossier-3-leçon-2
-une enquête|<b>Meaning</b>: an investigation/survey<br><b>Phrase: </b><i>Je fais une enquête.</i>|dossier-3 les-écrits dossier-3-leçon-2
-avoir horreur de (la routine)|<b>Meaning</b>: to hate (routine)<br><b>Phrase: </b><i>J'ai horreur de la routine.</i>|dossier-3 les-goûts dossier-3-leçon-2
-être passionné(e) par (la musique)|<b>Meaning</b>: to be passionate about (music)<br><b>Phrase: </b><i>Je suis passionné par la musique. / Je suis passionnée par la musique.</i>|dossier-3 les-goûts dossier-3-leçon-2
-s'intéresser à (l'art)|<b>Meaning</b>: to be interested in (art)<br><b>Phrase: </b><i>Je m'intéresse à l'art.</i>|dossier-3 les-goûts dossier-3-leçon-2
-un(e) artiste|<b>Meaning</b>: an artist<br><b>Phrase: </b><i>Il est artiste. / Elle est artiste.</i>|dossier-3 les-professions dossier-3-leçon-2
-un(e) dessinateur(trice)|<b>Meaning</b>: a designer/drawer<br><b>Phrase: </b><i>Il est dessinateur. / Elle est dessinatrice.</i>|dossier-3 les-professions dossier-3-leçon-2
-célibataire|<b>Meaning</b>: single<br><b>Phrase: </b><i>Je suis célibataire.</i>|dossier-3 les-relations dossier-3-leçon-2
-fonder une famille|<b>Meaning</b>: to start a family<br><b>Phrase: </b><i>Je veux fonder une famille.</i>|dossier-3 les-relations dossier-3-leçon-2
-partager|<b>Meaning</b>: to share<br><b>Phrase: </b><i>J'aime partager.</i>|dossier-3 les-relations dossier-3-leçon-2
-vivre seul(e)|<b>Meaning</b>: to live alone<br><b>Phrase: </b><i>Je vis seul. / Je vis seule.</i>|dossier-3 les-relations dossier-3-leçon-2
-C'est mon beau-frère. / C'est ma belle-sœur.|<b>Meaning</b>: It's my brother-in-law. / It's my sister-in-law.<br><b>Phrase: </b><i>C'est mon beau-frère. / C'est ma belle-sœur.</i>|dossier-3 la-famille dossier-3-leçon-3
-l'oncle (m.), la tante|<b>Meaning</b>: the uncle, the aunt<br><b>Phrase: </b><i>C'est mon oncle. / C'est ma tante.</i>|dossier-3 la-famille dossier-3-leçon-3
-le cousin, la cousine|<b>Meaning</b>: the cousin (m.), the cousin (f.)<br><b>Phrase: </b><i>C'est mon cousin. / C'est ma cousine.</i>|dossier-3 la-famille dossier-3-leçon-3
-le neveu, la nièce|<b>Meaning</b>: the nephew, the niece<br><b>Phrase: </b><i>C'est mon neveu. / C'est ma nièce.</i>|dossier-3 la-famille dossier-3-leçon-3
-l'état physique|{'aller/se sentir bien (mieux) ≠ mal': '<b>Meaning</b>: to feel well (better) ≠ badly<br><b>Phrase: </b><i>Je vais bien. / Je me sens bien. / Je vais mieux. / Je me sens mieux. / Je vais mal. / Je me sens mal.</i>', 'avoir mal à': "<b>Meaning</b>: to have pain in<br><b>Phrase: </b><i>J'ai mal à la tête.</i>"}|dossier-3 le-physique dossier-3-leçon-3
-le corps|{"l'épaule (f.)": "<b>Meaning</b>: the shoulder<br><b>Phrase: </b><i>C'est mon épaule.</i>", "l'œil (m.)": "<b>Meaning</b>: the eye<br><b>Phrase: </b><i>C'est mon œil.</i>", "l'oreille (f.)": "<b>Meaning</b>: the ear<br><b>Phrase: </b><i>C'est mon oreille.</i>", 'la bouche': "<b>Meaning</b>: the mouth<br><b>Phrase: </b><i>C'est ma bouche.</i>", 'la jambe': "<b>Meaning</b>: the leg<br><b>Phrase: </b><i>C'est ma jambe.</i>", 'la main': "<b>Meaning</b>: the hand<br><b>Phrase: </b><i>C'est ma main.</i>", 'la tête': "<b>Meaning</b>: the head<br><b>Phrase: </b><i>C'est ma tête.</i>", 'le bras': "<b>Meaning</b>: the arm<br><b>Phrase: </b><i>C'est mon bras.</i>", 'le dos': "<b>Meaning</b>: the back<br><b>Phrase: </b><i>C'est mon dos.</i>", 'le nez': "<b>Meaning</b>: the nose<br><b>Phrase: </b><i>C'est mon nez.</i>", 'le pied': "<b>Meaning</b>: the foot<br><b>Phrase: </b><i>C'est mon pied.</i>", 'le ventre': "<b>Meaning</b>: the stomach<br><b>Phrase: </b><i>C'est mon ventre.</i>", 'les cheveux (m.)': '<b>Meaning</b>: the hair<br><b>Phrase: </b><i>Ce sont mes cheveux.</i>', 'les dents (f.)': '<b>Meaning</b>: the teeth<br><b>Phrase: </b><i>Ce sont mes dents.</i>', 'les yeux (m.)': '<b>Meaning</b>: the eyes<br><b>Phrase: </b><i>Ce sont mes yeux.</i>', 'mesurer (1 mètre 70)': '<b>Meaning</b>: to measure (1 meter 70)<br><b>Phrase: </b><i>Je mesure 1 mètre 70.</i>', 'peser (70 kilos)': '<b>Meaning</b>: to weigh (70 kilos)<br><b>Phrase: </b><i>Je pèse 70 kilos.</i>', "ressembler à quelqu'un": '<b>Meaning</b>: to look like someone<br><b>Phrase: </b><i>Je ressemble à ma mère.</i>'}|dossier-3 le-physique dossier-3-leçon-3
-un album de photos|<b>Meaning</b>: a photo album<br><b>Phrase: </b><i>Voici un album de photos.</i>|dossier-3 les-écrit-et-images dossier-3-leçon-3
-un arbre généalogique|<b>Meaning</b>: a family tree<br><b>Phrase: </b><i>Voici un arbre généalogique.</i>|dossier-3 les-écrit-et-images dossier-3-leçon-3
-un SMS = un texto|<b>Meaning</b>: a text message<br><b>Phrase: </b><i>J'envoie un SMS. / J'envoie un texto.</i>|dossier-3 les-écrit-et-images dossier-3-leçon-3
-annoncer une nouvelle|<b>Meaning</b>: to announce news<br><b>Phrase: </b><i>Je vais annoncer une nouvelle.</i>|dossier-3 les-événements dossier-3-leçon-3
-décéder|<b>Meaning</b>: to pass away/to die<br><b>Phrase: </b><i>Il est décédé.</i>|dossier-3 les-événements dossier-3-leçon-3
-des vœux (m.) de bonheur (m.)|<b>Meaning</b>: wishes of happiness<br><b>Phrase: </b><i>Je vous adresse mes vœux de bonheur.</i>|dossier-3 les-événements dossier-3-leçon-3
-être heureux (d'annoncer)|<b>Meaning</b>: to be happy (to announce)<br><b>Phrase: </b><i>Je suis heureux d'annoncer...</i>|dossier-3 les-événements dossier-3-leçon-3
-féliciter|<b>Meaning</b>: to congratulate<br><b>Phrase: </b><i>Je te félicite.</i>|dossier-3 les-événements dossier-3-leçon-3
-naître|<b>Meaning</b>: to be born<br><b>Phrase: </b><i>Je suis né en 1990.</i>|dossier-3 les-événements dossier-3-leçon-3
-réagir à un événement|<b>Meaning</b>: to react to an event<br><b>Phrase: </b><i>Comment réagir à un événement?</i>|dossier-3 les-événements dossier-3-leçon-3
-se marier|<b>Meaning</b>: to get married<br><b>Phrase: </b><i>Ils vont se marier.</i>|dossier-3 les-événements dossier-3-leçon-3
-un faire-part de mariage (m.)/de naissance (f.)/de décès (m.)|<b>Meaning</b>: a wedding announcement / a birth announcement / a death announcement<br><b>Phrase: </b><i>Voici un faire-part de mariage. / Voici un faire-part de naissance. / Voici un faire-part de décès.</i>|dossier-3 les-événements dossier-3-leçon-3
-une bonne nouvelle ≠ une triste/mauvaise nouvelle|<b>Meaning</b>: good news ≠ sad/bad news<br><b>Phrase: </b><i>C'est une bonne nouvelle. / C'est une triste nouvelle.</i>|dossier-3 les-événements dossier-3-leçon-3
+#separator:|
+#html:true
+le mari, la femme|<b>Meaning</b>: the husband, the wife<br><b>Phrase:</b> <i>Voici le mari et la femme.</i>|dossier-3 la-famille dossier-3-leçon-3
+les parents (m.) : le père, la mère|<b>Meaning</b>: the parents: the father, the mother<br><b>Phrase:</b> <i>Ce sont mes parents. Mon père et ma mère.</i>|dossier-3 la-famille dossier-3-leçon-3
+les enfants (m.) : le fils, la fille|<b>Meaning</b>: the children: the son, the daughter<br><b>Phrase:</b> <i>Ils ont deux enfants: un fils et une fille.</i>|dossier-3 la-famille dossier-3-leçon-3
+les grands-parents (m.) : le grand-père, la grand-mère|<b>Meaning</b>: the grandparents: the grandfather, the grandmother<br><b>Phrase:</b> <i>Mes grands-parents sont très vieux.</i>|dossier-3 la-famille dossier-3-leçon-3
+les petits-enfants (m.) : le petit-fils, la petite-fille|<b>Meaning</b>: the grandchildren: the grandson, the granddaughter<br><b>Phrase:</b> <i>Ils adorent leurs petits-enfants.</i>|dossier-3 la-famille dossier-3-leçon-3
+le frère, la sœur|<b>Meaning</b>: the brother, the sister<br><b>Phrase:</b> <i>J'ai un frère et une sœur.</i>|dossier-3 la-famille dossier-3-leçon-3
+la belle-famille|<b>Meaning</b>: the family-in-law<br><b>Phrase:</b> <i>Je vais dîner avec ma belle-famille.</i>|dossier-3 la-famille dossier-3-leçon-3
+les beaux-parents (m.) : le beau-père, la belle-mère|<b>Meaning</b>: parents-in-law: father-in-law, mother-in-law<br><b>Phrase:</b> <i>Mes beaux-parents sont gentils.</i>|dossier-3 la-famille dossier-3-leçon-3
+le beau-frère, la belle-sœur|<b>Meaning</b>: the brother-in-law, the sister-in-law<br><b>Phrase:</b> <i>Mon beau-frère est marié à ma sœur.</i>|dossier-3 la-famille dossier-3-leçon-3
+l'oncle (m.), la tante|<b>Meaning</b>: the uncle, the aunt<br><b>Phrase:</b> <i>Mon oncle et ma tante habitent à Paris.</i>|dossier-3 la-famille dossier-3-leçon-3
+le cousin, la cousine|<b>Meaning</b>: the cousin (m), the cousin (f)<br><b>Phrase:</b> <i>J'ai plusieurs cousins et cousines.</i>|dossier-3 la-famille dossier-3-leçon-3
+le neveu, la nièce|<b>Meaning</b>: the nephew, the niece<br><b>Phrase:</b> <i>C'est le fils de ma sœur, mon neveu.</i>|dossier-3 la-famille dossier-3-leçon-3
+une bonne nouvelle ≠ une triste/mauvaise nouvelle|<b>Meaning</b>: good news ≠ sad/bad news<br><b>Phrase:</b> <i>C'est une bonne nouvelle! Ce n'est pas une mauvaise nouvelle.</i>|dossier-3 les-événements dossier-3-leçon-3
+un faire-part de mariage (m.)/de naissance (f.)/de décès (m.)|<b>Meaning</b>: a wedding announcement/a birth announcement/a death announcement<br><b>Phrase:</b> <i>Nous avons reçu un faire-part de mariage.</i>|dossier-3 les-événements dossier-3-leçon-3
+des vœux (m.) de bonheur (m.)|<b>Meaning</b>: wishes of happiness<br><b>Phrase:</b> <i>Je vous adresse mes vœux de bonheur.</i>|dossier-3 les-événements dossier-3-leçon-3
+annoncer une nouvelle|<b>Meaning</b>: to announce news<br><b>Phrase:</b> <i>Je veux annoncer une nouvelle.</i>|dossier-3 les-événements dossier-3-leçon-3
+réagir à un événement|<b>Meaning</b>: to react to an event<br><b>Phrase:</b> <i>Comment réagir à cet événement?</i>|dossier-3 les-événements dossier-3-leçon-3
+être heureux (d'annoncer)|<b>Meaning</b>: to be happy (to announce)<br><b>Phrase:</b> <i>Je suis heureux d'annoncer cette nouvelle.</i>|dossier-3 les-événements dossier-3-leçon-3
+féliciter|<b>Meaning</b>: to congratulate<br><b>Phrase:</b> <i>Je te félicite pour ton mariage.</i>|dossier-3 les-événements dossier-3-leçon-3
+naître|<b>Meaning</b>: to be born<br><b>Phrase:</b> <i>Il est né en 1980.</i>|dossier-3 les-événements dossier-3-leçon-3
+se marier|<b>Meaning</b>: to get married<br><b>Phrase:</b> <i>Ils vont se marier l'année prochaine.</i>|dossier-3 les-événements dossier-3-leçon-3
+décéder|<b>Meaning</b>: to pass away<br><b>Phrase:</b> <i>Elle est décédée à l'âge de 90 ans.</i>|dossier-3 les-événements dossier-3-leçon-3
+le corps|<b>Meaning</b>: the body<br><b>Phrase:</b> <i>Le corps humain est complexe.</i>|dossier-3 le-physique dossier-3-leçon-3
+la bouche|<b>Meaning</b>: the mouth<br><b>Phrase:</b> <i>Elle a une belle bouche.</i>|dossier-3 le-physique dossier-3-leçon-3
+le bras|<b>Meaning</b>: the arm<br><b>Phrase:</b> <i>Il s'est cassé le bras.</i>|dossier-3 le-physique dossier-3-leçon-3
+les cheveux (m.)|<b>Meaning</b>: the hair<br><b>Phrase:</b> <i>Elle a les cheveux longs.</i>|dossier-3 le-physique dossier-3-leçon-3
+les dents (f.)|<b>Meaning</b>: the teeth<br><b>Phrase:</b> <i>Il faut se brosser les dents.</i>|dossier-3 le-physique dossier-3-leçon-3
+le dos|<b>Meaning</b>: the back<br><b>Phrase:</b> <i>J'ai mal au dos.</i>|dossier-3 le-physique dossier-3-leçon-3
+l'épaule (f.)|<b>Meaning</b>: the shoulder<br><b>Phrase:</b> <i>Il a une douleur à l'épaule.</i>|dossier-3 le-physique dossier-3-leçon-3
+la jambe|<b>Meaning</b>: the leg<br><b>Phrase:</b> <i>Elle s'est foulé la jambe.</i>|dossier-3 le-physique dossier-3-leçon-3
+la main|<b>Meaning</b>: the hand<br><b>Phrase:</b> <i>Lavez-vous les mains.</i>|dossier-3 le-physique dossier-3-leçon-3
+le nez|<b>Meaning</b>: the nose<br><b>Phrase:</b> <i>Il a un grand nez.</i>|dossier-3 le-physique dossier-3-leçon-3
+l'œil (m.)|<b>Meaning</b>: the eye<br><b>Phrase:</b> <i>Il a mal à l'œil.</i>|dossier-3 le-physique dossier-3-leçon-3
+l'oreille (f.)|<b>Meaning</b>: the ear<br><b>Phrase:</b> <i>Elle a un piercing à l'oreille.</i>|dossier-3 le-physique dossier-3-leçon-3
+le pied|<b>Meaning</b>: the foot<br><b>Phrase:</b> <i>J'ai mal au pied.</i>|dossier-3 le-physique dossier-3-leçon-3
+la tête|<b>Meaning</b>: the head<br><b>Phrase:</b> <i>Il a mal à la tête.</i>|dossier-3 le-physique dossier-3-leçon-3
+le ventre|<b>Meaning</b>: the stomach<br><b>Phrase:</b> <i>J'ai mal au ventre.</i>|dossier-3 le-physique dossier-3-leçon-3
+les yeux (m.)|<b>Meaning</b>: the eyes<br><b>Phrase:</b> <i>Elle a les yeux bleus.</i>|dossier-3 le-physique dossier-3-leçon-3
+mesurer (1 mètre 70)|<b>Meaning</b>: to measure (1 meter 70)<br><b>Phrase:</b> <i>Il mesure 1 mètre 70.</i>|dossier-3 le-physique dossier-3-leçon-3
+peser (70 kilos)|<b>Meaning</b>: to weigh (70 kilos)<br><b>Phrase:</b> <i>Elle pèse 70 kilos.</i>|dossier-3 le-physique dossier-3-leçon-3
+ressembler à quelqu'un|<b>Meaning</b>: to look like someone<br><b>Phrase:</b> <i>Il ressemble à son père.</i>|dossier-3 le-physique dossier-3-leçon-3
+aller/se sentir bien (mieux) ≠ mal|<b>Meaning</b>: to feel well (better) ≠ bad<br><b>Phrase:</b> <i>Je vais bien, merci. Je me sens mieux aujourd'hui. Je vais mal.</i>|dossier-3 l'état-physique dossier-3-leçon-3
+avoir mal à|<b>Meaning</b>: to have pain in<br><b>Phrase:</b> <i>J'ai mal à la tête.</i>|dossier-3 l'état-physique dossier-3-leçon-3
+un album de photos|<b>Meaning</b>: a photo album<br><b>Phrase:</b> <i>Regardons cet album de photos.</i>|dossier-3 les-écrits-et-images dossier-3-leçon-3
+un arbre généalogique|<b>Meaning</b>: a family tree<br><b>Phrase:</b> <i>Voici notre arbre généalogique.</i>|dossier-3 les-écrits-et-images dossier-3-leçon-3
+un SMS = un texto|<b>Meaning</b>: a text message<br><b>Phrase:</b> <i>Je t'envoie un SMS.</i>|dossier-3 les-écrits-et-images dossier-3-leçon-3

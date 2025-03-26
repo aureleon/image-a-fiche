@@ -16,3 +16,4 @@ venv/
 
 # API Key
 .openrouter-key
+.gemini-key
